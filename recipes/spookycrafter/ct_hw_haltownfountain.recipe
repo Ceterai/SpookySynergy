@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "pumpkin", "count" : 10 },
+    { "item" : "chocolate", "count" : 10 }
+  ],
+  "output" : { "item" : "haltownfountain", "count" : 1 },
+  "groups" : [
+    "spookycrafter",
+    "decoration",
+    "objects",
+    "all",
+    "mod"
+  ]
+}

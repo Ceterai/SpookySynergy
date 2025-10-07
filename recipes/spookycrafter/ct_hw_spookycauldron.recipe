@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "pumpkin", "count" : 4 },
+    { "item" : "candypiece", "count" : 2 },
+    { "item" : "nzrpumpkincandy", "count" : 2 },
+    { "item" : "candyapple", "count" : 2 },
+    { "item" : "candiedcorn", "count" : 2 }
+  ],
+  "output" : { "item" : "spookycauldron", "count" : 1 },
+  "groups" : [
+    "spookycrafter",
+    "decoration",
+    "objects",
+    "all"
+  ]
+}

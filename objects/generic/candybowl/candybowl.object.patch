@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/colonyTags"
+        },
+        {
+            "op": "replace",
+            "path": "/colonyTags",
+            "value": [ "halloween", "storage" ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/slotCount"
+        },
+        {
+            "op": "replace",
+            "path": "/slotCount",
+            "value": 9
+        }
+    ]
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "op": "test",
+        "path": "/groups"
+    },
+    {
+        "op": "replace",
+        "path": "/groups",
+        "value": [
+            "spookycrafter",
+            // "craftingfurniture",
+            "chairs",
+            "decoration",
+            "objects",
+            "all",
+            "mod"
+        ]
+    }
+]

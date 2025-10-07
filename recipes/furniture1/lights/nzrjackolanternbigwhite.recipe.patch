@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/input"
+        },
+        {
+            "op": "replace",
+            "path": "/input",
+            "value": [
+                { "item" : "nzrpumpkin", "count" : 4 },
+                { "item" : "plantfibre", "count" : 12 },
+                { "item" : "whitedye", "count" : 1 },
+                { "item" : "candle", "count" : 1 }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/groups"
+        },
+        {
+            "op": "replace",
+            "path": "/groups",
+            "value": [
+                "spookycrafter",
+                // "craftingfurniture",
+                "lights",
+                "all",
+                "mod"
+            ]
+        }
+    ]
+]

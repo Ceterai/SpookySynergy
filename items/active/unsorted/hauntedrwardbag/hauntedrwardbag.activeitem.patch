@@ -1,0 +1,26 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/scripts"
+        },
+        {
+            "op": "replace",
+            "path": "/scripts",
+            "value": [
+                "/items/active/unsorted/rewardbag/rewardbag.lua"
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/maxStack"
+        },
+        {
+            "op": "replace",
+            "path": "/maxStack",
+            "value": 1000
+        }
+    ]
+]

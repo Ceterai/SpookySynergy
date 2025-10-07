@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/shortdescription"
+        },
+        {
+            "op": "replace",
+            "path": "/shortdescription",
+            "value": "Turnip Seed"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/description"
+        },
+        {
+            "op": "replace",
+            "path": "/description",
+            "value": "These bright fruits can be used both in tasty dishes and tasteful decorations."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/apexDescription"
+        },
+        {
+            "op": "replace",
+            "path": "/apexDescription",
+            "value": "A bright turnip. To eat or to carve."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/avianDescription"
+        },
+        {
+            "op": "replace",
+            "path": "/avianDescription",
+            "value": "A ripe turnip filled with plentiful seeds."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/floranDescription"
+        },
+        {
+            "op": "replace",
+            "path": "/floranDescription",
+            "value": "Floran sssmash turnip to make sssquelch sounds. Also to eat."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/glitchDescription"
+        },
+        {
+            "op": "replace",
+            "path": "/glitchDescription",
+            "value": "Pleased. I've always thought turnips looked delicious."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/novakidDescription"
+        },
+        {
+            "op": "replace",
+            "path": "/novakidDescription",
+            "value": "Turnip is tasty lookin' on the inside."
+        }
+    ]
+]

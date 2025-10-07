@@ -1,0 +1,17 @@
+[
+    {
+        "op": "test",
+        "path": "/groups"
+    },
+    {
+        "op": "replace",
+        "path": "/groups",
+        "value": [
+            "spookycrafter",
+            "lights",
+            "objects",
+            "all",
+            "mod"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/groups"
+        },
+        {
+            "op": "replace",
+            "path": "/groups",
+            "value": [
+                "craftingfood",
+                "snacks",
+                "alta_food",
+                "candies",
+                "candy",
+                "consumables",
+                "all",
+                "mod"
+            ]
+        }
+    ]
+]

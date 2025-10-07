@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "nzrpumpkin", "count" : 1 },
+    { "item" : "titaniumbar", "count" : 4 },
+    { "item" : "plantfibre", "count" : 20 },
+    { "item" : "candle", "count" : 2 }
+  ],
+  "output" : { "item" : "spooplantern", "count" : 1 },
+  "groups" : [
+    "spookycrafter",
+    "all",
+    "mod"
+  ]
+}

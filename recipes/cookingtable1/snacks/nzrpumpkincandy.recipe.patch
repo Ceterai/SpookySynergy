@@ -1,0 +1,47 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/input"
+        },
+        {
+            "op": "replace",
+            "path": "/input",
+            "value": [
+                {
+                    "item": "nzrpumpkin",
+                    "count": 1
+                },
+                {
+                    "item": "sugar",
+                    "count": 3
+                },
+                {
+                    "item": "plantfibre",
+                    "count": 3
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/groups"
+        },
+        {
+            "op": "replace",
+            "path": "/groups",
+            "value": [
+                "craftingfood",
+                "snacks",
+                "alta_food",
+                "candies",
+                "candy",
+                "campfire",
+                "consumables",
+                "all",
+                "mod"
+            ]
+        }
+    ]
+]

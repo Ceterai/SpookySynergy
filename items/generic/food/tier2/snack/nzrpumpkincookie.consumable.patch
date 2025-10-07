@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/foodValue"
+        },
+        {
+            "op": "replace",
+            "path": "/foodValue",
+            "value": 15
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/maxStack"
+        },
+        {
+            "op": "replace",
+            "path": "/maxStack",
+            "value": 100
+        }
+    ]
+]

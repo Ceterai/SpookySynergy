@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "tombbrick4", "count" : 12 }
+  ],
+  "output" : { "item" : "tombstone6", "count" : 1 },
+  "groups" : [
+    "spookycrafter",
+    "decoration",
+    "objects",
+    "all"
+  ]
+}

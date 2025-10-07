@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "nzrpumpkin", "count" : 1 },
+    { "item" : "plantfibre", "count" : 20 },
+    { "item" : "candle", "count" : 1 }
+  ],
+  "output" : { "item" : "spookypumpkinhead", "count" : 1 },
+  "groups" : [
+    "spookycrafter",
+    "lights",
+    "objects",
+    "all"
+  ]
+}

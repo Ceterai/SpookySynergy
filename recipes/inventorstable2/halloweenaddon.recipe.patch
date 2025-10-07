@@ -1,0 +1,17 @@
+[
+    {
+        "op": "test",
+        "path": "/groups"
+    },
+    {
+        "op": "replace",
+        "path": "/groups",
+        "value": [
+            "inventorstable3",
+            "craftingstations",
+            "all",
+            "objects",
+            "mod"
+        ]
+    }
+]

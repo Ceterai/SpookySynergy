@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "spookycandy", "count" : 1 },
+    { "item" : "candypiece", "count" : 1 },
+    { "item" : "nzrpumpkincandy", "count" : 1 },
+    { "item" : "candiedcorn", "count" : 1 },
+    { "item" : "rewardbag", "count" : 1 }
+  ],
+  "output" : { "item" : "hauntedrwardbag", "count" : 1 },
+  "groups" : [
+    "spookycrafter",
+    "consumables",
+    "all",
+    "mod"
+  ]
+}

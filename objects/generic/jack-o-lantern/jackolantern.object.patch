@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/colonyTags"
+        },
+        {
+            "op": "replace",
+            "path": "/colonyTags",
+            "value": [ "halloween", "light", "pumpkin" ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/price"
+        },
+        {
+            "op": "replace",
+            "path": "/price",
+            "value": 50
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/category"
+        },
+        {
+            "op": "replace",
+            "path": "/category",
+            "value": "light"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/description"
+        },
+        {
+            "op": "replace",
+            "path": "/description",
+            "value": "These used to be made out of turnips. This one is brighter and can be placed under water."
+        }
+    ]
+]

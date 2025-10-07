@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/input"
+        },
+        {
+            "op": "replace",
+            "path": "/input",
+            "value": [
+                { "item" : "nzrpumpkin", "count" : 5 },
+                { "item" : "pumpkin", "count" : 5 },
+                { "item" : "logblock", "count" : 13 },
+                { "item" : "chocolate", "count" : 2 },
+                { "item" : "candiedcorn", "count" : 2 },
+                { "item" : "candyapple", "count" : 2 },
+                { "item" : "candypiece", "count" : 2 },
+                { "item" : "nzrpumpkincandy", "count" : 2 }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/groups"
+        },
+        {
+            "op": "replace",
+            "path": "/groups",
+            "value": [
+                "inventorstable",
+                "craftingstations",
+                "all",
+                "objects",
+                "mod"
+            ]
+        }
+    ]
+]

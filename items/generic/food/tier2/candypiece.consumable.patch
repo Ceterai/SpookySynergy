@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/shortdescription"
+        },
+        {
+            "op": "replace",
+            "path": "/shortdescription",
+            "value": "Sweet Candy"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/rarity"
+        },
+        {
+            "op": "replace",
+            "path": "/rarity",
+            "value": "Common"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/price"
+        },
+        {
+            "op": "replace",
+            "path": "/price",
+            "value": 90
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/foodValue"
+        },
+        {
+            "op": "replace",
+            "path": "/foodValue",
+            "value": 10
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/maxStack"
+        },
+        {
+            "op": "replace",
+            "path": "/maxStack",
+            "value": 100
+        }
+    ]
+]

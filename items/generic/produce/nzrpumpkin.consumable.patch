@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookycrafter"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup",
+            "value": [ "spookycrafter" ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/maxStack"
+        },
+        {
+            "op": "replace",
+            "path": "/maxStack",
+            "value": 10
+        }
+    ]
+]

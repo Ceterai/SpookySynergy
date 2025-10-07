@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "nzrpumpkincandy", "count" : 1 },
+    { "item" : "titaniumbar", "count" : 1 }
+
+  ],
+  "output" : { "item" : "candybowl", "count" : 1 },
+  "groups" : [
+    "spookycrafter",
+    // "craftingfurniture2",
+    "decoration",
+    "objects",
+    "all",
+    "mod"
+  ]
+}

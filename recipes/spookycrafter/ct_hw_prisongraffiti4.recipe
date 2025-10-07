@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "blackdye", "count" : 3 }
+  ],
+  "output" : { "item" : "prisongraffiti4", "count" : 1 },
+  "groups" : [
+    "spookycrafter",
+    "decoration",
+    "objects",
+    "all"
+  ]
+}

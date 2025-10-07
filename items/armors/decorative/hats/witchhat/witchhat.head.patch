@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/shortdescription"
+        },
+        {
+            "op": "replace",
+            "path": "/shortdescription",
+            "value": "Spooky Witch Hat"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/rarity"
+        },
+        {
+            "op": "replace",
+            "path": "/rarity",
+            "value": "Rare"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/price"
+        },
+        {
+            "op": "replace",
+            "path": "/price",
+            "value": 500
+        }
+    ]
+]

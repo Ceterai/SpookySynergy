@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookypie"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup",
+            "value": [ "spookypie" ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/shortdescription"
+        },
+        {
+            "op": "replace",
+            "path": "/shortdescription",
+            "value": "Turnip Pie"
+        }
+    ]
+]

@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/colonyTags"
+        },
+        {
+            "op": "replace",
+            "path": "/colonyTags",
+            "value": [ "halloween", "light", "odd" ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/price"
+        },
+        {
+            "op": "replace",
+            "path": "/price",
+            "value": 60
+        }
+    ]
+]

@@ -1,0 +1,58 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookypie"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup",
+            "value": [ "spookypie" ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/shortdescription"
+        },
+        {
+            "op": "replace",
+            "path": "/shortdescription",
+            "value": "Turnip"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/description"
+        },
+        {
+            "op": "replace",
+            "path": "/description",
+            "value": "A not-so-spooky, true to its origin turnip."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/maxStack"
+        },
+        {
+            "op": "replace",
+            "path": "/maxStack",
+            "value": 10
+        }
+    ]
+]

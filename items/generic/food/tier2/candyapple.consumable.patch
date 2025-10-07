@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/rottingMultiplier"
+        },
+        {
+            "op": "replace",
+            "path": "/rottingMultiplier",
+            "value": 2.5
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/blockingEffects"
+        },
+        {
+            "op": "replace",
+            "path": "/blockingEffects",
+            "value": [ ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/foodValue"
+        },
+        {
+            "op": "replace",
+            "path": "/foodValue",
+            "value": 20
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/maxStack"
+        },
+        {
+            "op": "replace",
+            "path": "/maxStack",
+            "value": 100
+        }
+    ]
+]
