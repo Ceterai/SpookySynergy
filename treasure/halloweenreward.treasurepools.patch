@@ -74,8 +74,8 @@
 		0,
 		{
 		  "poolRounds" : [
-	    	[0.5, 0],
-			[0.5, 1]
+	    	[0.4, 0],
+			[0.6, 1]
 	      ],
 		  "pool" : [
 			// The Spooky Scary Halloween Special
@@ -84,14 +84,14 @@
 			{ "weight" : 0.1, "item" : "hallowmask3head" },
 			{ "weight" : 0.1, "item" : "hallowmask4head" },
 			{ "weight" : 0.1, "item" : "hallowmask5head" },
-			{ "weight" : 0.2, "item" : "phobemask1head" },
-			{ "weight" : 0.2, "item" : "phobemask2head" },
-			{ "weight" : 0.2, "item" : "phobemask3head" },
-			{ "weight" : 0.2, "item" : "phobemask4head" },
-			{ "weight" : 0.2, "item" : "phobemask5head" },
-			{ "weight" : 0.1, "item" : "halhumanoidpump" },
-			{ "weight" : 0.1, "item" : "halhylotlpump" },
-			{ "weight" : 0.1, "item" : "halpumpkinhead" },
+			{ "weight" : 0.15, "item" : "phobemask1head" },
+			{ "weight" : 0.15, "item" : "phobemask2head" },
+			{ "weight" : 0.15, "item" : "phobemask3head" },
+			{ "weight" : 0.15, "item" : "phobemask4head" },
+			{ "weight" : 0.15, "item" : "phobemask5head" },
+			{ "weight" : 0.08, "item" : "halhumanoidpump" },
+			{ "weight" : 0.08, "item" : "halhylotlpump" },
+			{ "weight" : 0.08, "item" : "halpumpkinhead" },
 			{ "weight" : 0.06, "item" : "deadpiratehead" },		
 			{ "weight" : 0.06, "item" : "daveyjonesy" },		
 			{ "weight" : 0.06, "item" : "nukegeneral" },		
@@ -132,8 +132,8 @@
 			// Starbound Halloween Mod
 			{ "weight" : 0.04, "item" : "witchhat" },
 			// Vanilla Wizard Hats
-			{ "weight" : 0.02, "item" : "wizardhead", "parameters" : { "colorIndex" : 1 } },
-			{ "weight" : 0.02, "item" : "wizardhead", "parameters" : { "colorIndex" : 11 } },
+			{ "weight" : 0.02, "item" : [ "wizardhead", 1, { "colorIndex" : 1 } ] },
+			{ "weight" : 0.02, "item" : [ "wizardhead", 1, { "colorIndex" : 11 } ] },
 			// Vanilla Skulls
 			{ "weight" : 0.01, "item" : "alienskullhead" },
 			{ "weight" : 0.01, "item" : "goathead" },
@@ -162,17 +162,17 @@
 			{ "weight" : 0.005, "item" : "bonewingsback" },
 			{ "weight" : 0.005, "item" : "batwingsback" },
 			// Vanilla Monster
-			{ "weight" : 0.005, "item" : "eyehead", "parameters" : { "colorIndex" : 2 } },
-			{ "weight" : 0.005, "item" : "evilmushroomhead", "parameters" : { "colorIndex" : 1 } },
-			{ "weight" : 0.005, "item" : "eyehead2", "parameters" : { "colorIndex" : 2 } },
-			{ "weight" : 0.005, "item" : "beachcreeperhead", "parameters" : { "colorIndex" : 6 } },
-			{ "weight" : 0.005, "item" : "cyclopsyetihead", "parameters" : { "colorIndex" : 1 } },
-			{ "weight" : 0.005, "item" : "eyeballhead", "parameters" : { "colorIndex" : 3 } },
-			{ "weight" : 0.005, "item" : "lagoonhead", "parameters" : { "colorIndex" : 2 } },
-			{ "weight" : 0.015, "item" : "slimehead", "parameters" : { "colorIndex" : 4 } },
+			{ "weight" : 0.005, "item" : [ "eyehead", 1, { "colorIndex" : 2 } ] },
+			{ "weight" : 0.005, "item" : [ "evilmushroomhead", 1, { "colorIndex" : 1 } ] },
+			{ "weight" : 0.005, "item" : [ "eyehead2", 1, { "colorIndex" : 2 } ] },
+			{ "weight" : 0.005, "item" : [ "beachcreeperhead", 1, { "colorIndex" : 6 } ] },
+			{ "weight" : 0.005, "item" : [ "cyclopsyetihead", 1, { "colorIndex" : 1 } ] },
+			{ "weight" : 0.005, "item" : [ "eyeballhead", 1, { "colorIndex" : 3 } ] },
+			{ "weight" : 0.005, "item" : [ "lagoonhead", 1, { "colorIndex" : 2 } ] },
+			{ "weight" : 0.015, "item" : [ "slimehead", 1, { "colorIndex" : 4 } ] },
 			// Vanilla Pirate
 			{ "weight" : 0.005, "item" : "eyepatchhead" },
-			{ "weight" : 0.005, "item" : "piratehead", "parameters" : { "colorIndex" : 9 } }
+			{ "weight" : 0.005, "item" : [ "piratehead", 1, { "colorIndex" : 9 } ] }
 		  ]
 		}
 	  ]

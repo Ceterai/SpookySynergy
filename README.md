@@ -42,6 +42,9 @@ These mods go well together with the spooky mods listed below:
 - [**Halloween Menu**](https://steamcommunity.com/sharedfiles/filedetails/?id=1155040683): A UI mod that changes the main menu of the game.
 - [**Eternaween**](https://steamcommunity.com/sharedfiles/filedetails/?id=793546082): Adds trick-or-treating through tenants.
 - [**GS Addon - Ghosts Eve**](https://steamcommunity.com/sharedfiles/filedetails/?id=1432243401): Adds new missions with decorations and loot, which don't clash with the affected mods.
+- [**A Super Spooky Song Pack**](https://steamcommunity.com/sharedfiles/filedetails/?id=1135970099): Adds spooky horror themes and song tracks to the game.
+- [**Batong Vampire**](https://steamcommunity.com/sharedfiles/filedetails/?id=2637449711): Adds a race of Batong Vampires (Vampyric Race).
+- [**Express + Terramart HalloWeen**](https://steamcommunity.com/sharedfiles/filedetails/?id=1181105081): Replaces Infinity Express and Terramart stores with Halloween-themed versions.
 
 ## Compatibility
 
@@ -62,6 +65,10 @@ The mod should be easily removeable as it only contains patches and recipes.
   - Nazar's Halloween: [Homophagous](https://steamcommunity.com/profiles/76561198132178129)
   - Starbound Halloween Mod: [Danger Noodle](https://steamcommunity.com/id/habgobibligibla)
 - Special Thanks: Starbound Modding Community
+
+## Changelog
+
+See the [CHANGELOG.md](CHANGELOG.md) file for a detailed changelog.
 
 ## Support & Feedback
 
