@@ -4,6 +4,7 @@
   ],
   "output" : { "item" : "prisongraffiti4", "count" : 1 },
   "groups" : [
+    "spookysynergy",
     "spookycrafter",
     "decoration",
     "objects",

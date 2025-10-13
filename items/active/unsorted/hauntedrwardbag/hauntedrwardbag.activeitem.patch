@@ -1,4 +1,6 @@
+// Patches for the Haunted Bag from The Spooky Scary Halloween Special mod:
 [
+    // Fixes its script by using a vanilla Reward Bag script.
     [
         {
             "op": "test",
@@ -12,6 +14,8 @@
             ]
         }
     ],
+
+    // Increases its max stack to 1000.
     [
         {
             "op": "test",
@@ -21,6 +25,19 @@
             "op": "replace",
             "path": "/maxStack",
             "value": 1000
+        }
+    ],
+
+    // Makes it more similar to the Harrowing Cache from Elithian Alliance mod.
+    [
+        {
+            "op": "test",
+            "path": "/price"
+        },
+        {
+            "op": "replace",
+            "path": "/price",
+            "value": 250  // To make it the same price as the Harrowing Cache from Elithian Alliance
         }
     ]
 ]

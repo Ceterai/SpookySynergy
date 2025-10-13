@@ -7,6 +7,7 @@
         "op": "replace",
         "path": "/groups",
         "value": [
+            "spookysynergy",
             "spookycrafter",
             // "craftingfurniture2",
             "lights",

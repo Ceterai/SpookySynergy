@@ -7,6 +7,7 @@
   ],
   "output" : { "item" : "spooplantern", "count" : 1 },
   "groups" : [
+    "spookysynergy",
     "spookycrafter",
     "all",
     "mod"

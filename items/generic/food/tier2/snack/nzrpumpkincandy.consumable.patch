@@ -1,4 +1,6 @@
+// Patches for the Pumpkin Candy from Nazar's Halloween mod to make it more similar to candy from other mods.
 [
+    // Teaches the Candy Bowl crafting recipe upon pickup, similar to candy from the Starbound Halloween mod.
     [
         {
             "op": "test",
@@ -25,12 +27,32 @@
     [
         {
             "op": "test",
+            "path": "/effects"
+        },
+        {
+            "op": "replace",
+            "path": "/effects",
+            "value": [ [
+                {
+                    "effect" : "runboostfood",
+                    "duration" : 60
+                },
+                {
+                    "effect" : "maxenergyscalingboostfood",
+                    "duration" : 60
+                }
+            ] ]
+        }
+    ],
+    [
+        {
+            "op": "test",
             "path": "/price"
         },
         {
             "op": "replace",
             "path": "/price",
-            "value": 150
+            "value": 120  // Though it rots faster than Sweet Candy, its effects last 2 times as long, so it should be slightly more expensive.
         }
     ],
     [
@@ -41,7 +63,7 @@
         {
             "op": "replace",
             "path": "/rottingMultiplier",
-            "value": 2.5
+            "value": 2.0  // Gets older slower than regular food items, but not as slow as sugar-only candy from other mods.
         }
     ],
     [
@@ -52,7 +74,7 @@
         {
             "op": "replace",
             "path": "/blockingEffects",
-            "value": [ ]
+            "value": [ ]  // Eat as many as you want! Matches candy from other mods.
         }
     ],
     [
@@ -63,7 +85,7 @@
         {
             "op": "replace",
             "path": "/foodValue",
-            "value": 10
+            "value": 10  // Smaller food value. It's just a small piece of candy after all.
         }
     ],
     [
@@ -75,6 +97,18 @@
             "op": "replace",
             "path": "/maxStack",
             "value": 100
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/emote",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/emote",
+            "value": "happy"  // Matches Harrowing Candy from Elithian Alliance mod.
         }
     ]
 ]

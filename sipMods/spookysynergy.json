@@ -1,0 +1,2196 @@
+[
+    {
+        "path": "/codex/nazar notes/",
+        "fileName": "20241115nzrnote.codex",
+        "name": "20241115nzrnote-codex",
+        "shortdescription": "2024 11 15, Note from Nazar",
+        "category": "codex",
+        "icon": "nzrnote.png",
+        "rarity": "common",
+        "race": "alta"
+    },
+    {
+        "path": "/items/generic/food/tier2/condiment/",
+        "fileName": "nzrpumpkinbutter.consumable",
+        "name": "nzrpumpkinbutter",
+        "shortdescription": "Pumpkin Butter",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinbutter.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkincreampie.consumable",
+        "name": "nzrpumpkincreampie",
+        "shortdescription": "Pumpkin Cream Pie",
+        "category": "preparedFood",
+        "icon": "nzrpumpkincreampie.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkincupcake.consumable",
+        "name": "nzrpumpkincupcake",
+        "shortdescription": "Pumpkin Cupcake",
+        "category": "preparedFood",
+        "icon": "nzrpumpkincupcake.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkindonut.consumable",
+        "name": "nzrpumpkindonut",
+        "shortdescription": "Pumpkin Donut",
+        "category": "preparedFood",
+        "icon": "nzrpumpkindonut.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkinicecream.consumable",
+        "name": "nzrpumpkinicecream",
+        "shortdescription": "Pumpkin Icedream",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinicecream.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkinminidonuts.consumable",
+        "name": "nzrpumpkinminidonuts",
+        "shortdescription": "Pumpkin Mini Donuts",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinminidonuts.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkinmochi.consumable",
+        "name": "nzrpumpkinmochi",
+        "shortdescription": "Pumpkin Mochi",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinmochi.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkinparfait.consumable",
+        "name": "nzrpumpkinparfait",
+        "shortdescription": "Tempting Parfait",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinparfait.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkinpie.consumable",
+        "name": "nzrpumpkinpie",
+        "shortdescription": "Pumpkin Pie",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinpie.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkinpudding.consumable",
+        "name": "nzrpumpkinpudding",
+        "shortdescription": "Pumpkin Pudding",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinpudding.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkinringcake.consumable",
+        "name": "nzrpumpkinringcake",
+        "shortdescription": "Pumpkin Ring Cake",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinringcake.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/dessert/",
+        "fileName": "nzrpumpkinroll.consumable",
+        "name": "nzrpumpkinroll",
+        "shortdescription": "Pumpkin Roll",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinroll.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/drink/",
+        "fileName": "nzrpumpkincaramelcocktail.consumable",
+        "name": "nzrpumpkincaramelcocktail",
+        "shortdescription": "Pumpkin Caramel Cocktail",
+        "category": "drink",
+        "icon": "nzrpumpkincaramelcocktail.png",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/generic/food/tier2/drink/",
+        "fileName": "nzrpumpkinfruitpunch.consumable",
+        "name": "nzrpumpkinfruitpunch",
+        "shortdescription": "Pumpkin Fruit Punch",
+        "category": "drink",
+        "icon": "nzrpumpkinfruitpunch.png",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/generic/food/tier2/drink/",
+        "fileName": "nzrpumpkinspicelatte.consumable",
+        "name": "nzrpumpkinspicelatte",
+        "shortdescription": "Pumpkin Spice Latte",
+        "category": "drink",
+        "icon": "nzrpumpkinspicelatte.png",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/generic/food/tier2/main/",
+        "fileName": "nzrpumpkincheeserisotto.consumable",
+        "name": "nzrpumpkincheeserisotto",
+        "shortdescription": "Pumpkin Cheese Risotto",
+        "category": "preparedFood",
+        "icon": "nzrpumpkincheeserisotto.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/main/",
+        "fileName": "nzrpumpkinchili.consumable",
+        "name": "nzrpumpkinchili",
+        "shortdescription": "Pumpkin Chili",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinchili.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/main/",
+        "fileName": "nzrpumpkindumpling.consumable",
+        "name": "nzrpumpkindumpling",
+        "shortdescription": "Pumpkin Dumplings",
+        "category": "preparedFood",
+        "icon": "nzrpumpkindumpling.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/main/",
+        "fileName": "nzrpumpkinhummus.consumable",
+        "name": "nzrpumpkinhummus",
+        "shortdescription": "Pumpkin Hummus",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinhummus.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/main/",
+        "fileName": "nzrpumpkinpasta.consumable",
+        "name": "nzrpumpkinpasta",
+        "shortdescription": "Pumpkin Pasta",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinpasta.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/main/",
+        "fileName": "nzrpumpkinsoup.consumable",
+        "name": "nzrpumpkinsoup",
+        "shortdescription": "Pumpkin Soup",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinsoup.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/main/",
+        "fileName": "nzrpumpkinsushi.consumable",
+        "name": "nzrpumpkinsushi",
+        "shortdescription": "Pumpkin Sushi",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinsushi.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/side/",
+        "fileName": "nzrpumpkinbagel.consumable",
+        "name": "nzrpumpkinbagel",
+        "shortdescription": "Pumpkin Bagel",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinbagel.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/side/",
+        "fileName": "nzrpumpkinbread.consumable",
+        "name": "nzrpumpkinbread",
+        "shortdescription": "Pumpkin Bread",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinbread.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/side/",
+        "fileName": "nzrpumpkinfrenchtoast.consumable",
+        "name": "nzrpumpkinfrenchtoast",
+        "shortdescription": "Pumpkin French Toast",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinfrenchtoast.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/side/",
+        "fileName": "nzrpumpkinpancake.consumable",
+        "name": "nzrpumpkinpancake",
+        "shortdescription": "Pumpkin Pancake",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinpancake.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/side/",
+        "fileName": "nzrpumpkinscone.consumable",
+        "name": "nzrpumpkinscone",
+        "shortdescription": "Pumpkin Scone",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinscone.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/side/",
+        "fileName": "nzrpumpkinwaffle.consumable",
+        "name": "nzrpumpkinwaffle",
+        "shortdescription": "Pumpkin Waffle",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinwaffle.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/snack/",
+        "fileName": "nzrcandycorn.consumable",
+        "name": "nzrcandycorn",
+        "shortdescription": "Candy Corn",
+        "category": "preparedFood",
+        "icon": "nzrcandycorn.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/snack/",
+        "fileName": "nzrpumpkincandy.consumable",
+        "name": "nzrpumpkincandy",
+        "shortdescription": "Pumpkin Candy",
+        "category": "preparedFood",
+        "icon": "nzrpumpkincandy.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/snack/",
+        "fileName": "nzrpumpkinchocolates.consumable",
+        "name": "nzrpumpkinchocolates",
+        "shortdescription": "Pumpkin Chocolates",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinchocolates.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/snack/",
+        "fileName": "nzrpumpkincookie.consumable",
+        "name": "nzrpumpkincookie",
+        "shortdescription": "Pumpkin Cookie",
+        "category": "preparedFood",
+        "icon": "nzrpumpkincookie.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/snack/",
+        "fileName": "nzrpumpkinmuffin.consumable",
+        "name": "nzrpumpkinmuffin",
+        "shortdescription": "Pumpkin Muffin",
+        "category": "preparedFood",
+        "icon": "nzrpumpkinmuffin.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/food/tier2/snack/",
+        "fileName": "nzrspicedpumpkinseed.consumable",
+        "name": "nzrspicedpumpkinseed",
+        "shortdescription": "Spiced Pumpkin Seeds",
+        "category": "preparedFood",
+        "icon": "nzrspicedpumpkinseed.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/produce/",
+        "fileName": "nzrpumpkin.consumable",
+        "name": "nzrpumpkin",
+        "shortdescription": "Pumpkin",
+        "category": "food",
+        "icon": "nzrpumpkinicon.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/objects/bats/paintedbatcave/",
+        "fileName": "nzrpaintedbatcave.object",
+        "name": "nzrpaintedbatcave",
+        "shortdescription": "Painted Bat Cave",
+        "category": "furniture",
+        "icon": "nzrpaintedbatcaveicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/farmables/pumpkin/",
+        "fileName": "nzrpumpkinseed.object",
+        "name": "nzrpumpkinseed",
+        "shortdescription": "Pumpkin Seed",
+        "category": "seed",
+        "icon": "nzrpumpkinseedicon.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/objects/farmables/pumpkin/",
+        "fileName": "wildnzrpumpkinseed.object",
+        "name": "wildnzrpumpkinseed",
+        "shortdescription": "Pumpkin Seed",
+        "category": "seed",
+        "icon": "nzrpumpkinseedicon.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/objects/farmables/punkincrop/",
+        "fileName": "nzrpunkincropseed.object",
+        "name": "nzrpunkincropseed",
+        "shortdescription": "Pumpkin Seed",
+        "category": "seed",
+        "icon": "nzrpunkincropseedicon.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/objects/farmables/punkincrop/",
+        "fileName": "wildnzrpunkincropseed.object",
+        "name": "wildnzrpunkincropseed",
+        "shortdescription": "Pumpkin Seed",
+        "category": "seed",
+        "icon": "nzrpunkincropseedicon.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbig/",
+        "fileName": "nzrjackolanternbig.object",
+        "name": "nzrjackolanternbig",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbigicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbigblack/",
+        "fileName": "nzrjackolanternbigblack.object",
+        "name": "nzrjackolanternbigblack",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbigblackicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbigblue/",
+        "fileName": "nzrjackolanternbigblue.object",
+        "name": "nzrjackolanternbigblue",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbigblueicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbiggreen/",
+        "fileName": "nzrjackolanternbiggreen.object",
+        "name": "nzrjackolanternbiggreen",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbiggreenicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbigorange/",
+        "fileName": "nzrjackolanternbigorange.object",
+        "name": "nzrjackolanternbigorange",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbigorangeicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbigpink/",
+        "fileName": "nzrjackolanternbigpink.object",
+        "name": "nzrjackolanternbigpink",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbigpinkicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbigred/",
+        "fileName": "nzrjackolanternbigred.object",
+        "name": "nzrjackolanternbigred",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbigredicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbigwhite/",
+        "fileName": "nzrjackolanternbigwhite.object",
+        "name": "nzrjackolanternbigwhite",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbigwhiteicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternbigyellow/",
+        "fileName": "nzrjackolanternbigyellow.object",
+        "name": "nzrjackolanternbigyellow",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternbigyellowicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternmini/",
+        "fileName": "nzrjackolanternmini.object",
+        "name": "nzrjackolanternmini",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminiicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternminiblack/",
+        "fileName": "nzrjackolanternminiblack.object",
+        "name": "nzrjackolanternminiblack",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminiblackicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternminiblue/",
+        "fileName": "nzrjackolanternminiblue.object",
+        "name": "nzrjackolanternminiblue",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminiblueicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternminigreen/",
+        "fileName": "nzrjackolanternminigreen.object",
+        "name": "nzrjackolanternminigreen",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminigreenicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternminiorange/",
+        "fileName": "nzrjackolanternminiorange.object",
+        "name": "nzrjackolanternminiorange",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminiorangeicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternminipink/",
+        "fileName": "nzrjackolanternminipink.object",
+        "name": "nzrjackolanternminipink",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminipinkicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternminired/",
+        "fileName": "nzrjackolanternminired.object",
+        "name": "nzrjackolanternminired",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminiredicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternminiwhite/",
+        "fileName": "nzrjackolanternminiwhite.object",
+        "name": "nzrjackolanternminiwhite",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminiwhiteicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternminiyellow/",
+        "fileName": "nzrjackolanternminiyellow.object",
+        "name": "nzrjackolanternminiyellow",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternminiyellowicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntall/",
+        "fileName": "nzrjackolanterntall.object",
+        "name": "nzrjackolanterntall",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntallblack/",
+        "fileName": "nzrjackolanterntallblack.object",
+        "name": "nzrjackolanterntallblack",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallblackicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntallblue/",
+        "fileName": "nzrjackolanterntallblue.object",
+        "name": "nzrjackolanterntallblue",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallblueicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntallgreen/",
+        "fileName": "nzrjackolanterntallgreen.object",
+        "name": "nzrjackolanterntallgreen",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallgreenicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntallorange/",
+        "fileName": "nzrjackolanterntallorange.object",
+        "name": "nzrjackolanterntallorange",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallorangeicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntallpink/",
+        "fileName": "nzrjackolanterntallpink.object",
+        "name": "nzrjackolanterntallpink",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallpinkicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntallred/",
+        "fileName": "nzrjackolanterntallred.object",
+        "name": "nzrjackolanterntallred",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallredicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntallwhite/",
+        "fileName": "nzrjackolanterntallwhite.object",
+        "name": "nzrjackolanterntallwhite",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallwhiteicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanterntallyellow/",
+        "fileName": "nzrjackolanterntallyellow.object",
+        "name": "nzrjackolanterntallyellow",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanterntallyellowicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwide/",
+        "fileName": "nzrjackolanternwide.object",
+        "name": "nzrjackolanternwide",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwideicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwideblack/",
+        "fileName": "nzrjackolanternwideblack.object",
+        "name": "nzrjackolanternwideblack",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwideblackicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwideblue/",
+        "fileName": "nzrjackolanternwideblue.object",
+        "name": "nzrjackolanternwideblue",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwideblueicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwidegreen/",
+        "fileName": "nzrjackolanternwidegreen.object",
+        "name": "nzrjackolanternwidegreen",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwidegreenicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwideorange/",
+        "fileName": "nzrjackolanternwideorange.object",
+        "name": "nzrjackolanternwideorange",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwideorangeicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwidepink/",
+        "fileName": "nzrjackolanternwidepink.object",
+        "name": "nzrjackolanternwidepink",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwidepinkicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwidered/",
+        "fileName": "nzrjackolanternwidered.object",
+        "name": "nzrjackolanternwidered",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwideredicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwidewhite/",
+        "fileName": "nzrjackolanternwidewhite.object",
+        "name": "nzrjackolanternwidewhite",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwidewhiteicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/lanterns/nzrjackolanternwideyellow/",
+        "fileName": "nzrjackolanternwideyellow.object",
+        "name": "nzrjackolanternwideyellow",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "nzrjackolanternwideyellowicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbig/",
+        "fileName": "nzrpunkinbig.object",
+        "name": "nzrpunkinbig",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbigicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbigblack/",
+        "fileName": "nzrpunkinbigblack.object",
+        "name": "nzrpunkinbigblack",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbigblackicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbigblue/",
+        "fileName": "nzrpunkinbigblue.object",
+        "name": "nzrpunkinbigblue",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbigblueicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbiggreen/",
+        "fileName": "nzrpunkinbiggreen.object",
+        "name": "nzrpunkinbiggreen",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbiggreenicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbigorange/",
+        "fileName": "nzrpunkinbigorange.object",
+        "name": "nzrpunkinbigorange",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbigorangeicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbigpink/",
+        "fileName": "nzrpunkinbigpink.object",
+        "name": "nzrpunkinbigpink",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbigpinkicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbigred/",
+        "fileName": "nzrpunkinbigred.object",
+        "name": "nzrpunkinbigred",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbigredicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbigwhite/",
+        "fileName": "nzrpunkinbigwhite.object",
+        "name": "nzrpunkinbigwhite",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbigwhiteicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinbigyellow/",
+        "fileName": "nzrpunkinbigyellow.object",
+        "name": "nzrpunkinbigyellow",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinbigyellowicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinmini/",
+        "fileName": "nzrpunkinmini.object",
+        "name": "nzrpunkinmini",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminiicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinminiblack/",
+        "fileName": "nzrpunkinminiblack.object",
+        "name": "nzrpunkinminiblack",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminiblackicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinminiblue/",
+        "fileName": "nzrpunkinminiblue.object",
+        "name": "nzrpunkinminiblue",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminiblueicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinminigreen/",
+        "fileName": "nzrpunkinminigreen.object",
+        "name": "nzrpunkinminigreen",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminigreenicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinminiorange/",
+        "fileName": "nzrpunkinminiorange.object",
+        "name": "nzrpunkinminiorange",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminiorangeicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinminipink/",
+        "fileName": "nzrpunkinminipink.object",
+        "name": "nzrpunkinminipink",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminipinkicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinminired/",
+        "fileName": "nzrpunkinminired.object",
+        "name": "nzrpunkinminired",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminiredicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinminiwhite/",
+        "fileName": "nzrpunkinminiwhite.object",
+        "name": "nzrpunkinminiwhite",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminiwhiteicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinminiyellow/",
+        "fileName": "nzrpunkinminiyellow.object",
+        "name": "nzrpunkinminiyellow",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinminiyellowicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintall/",
+        "fileName": "nzrpunkintall.object",
+        "name": "nzrpunkintall",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintallblack/",
+        "fileName": "nzrpunkintallblack.object",
+        "name": "nzrpunkintallblack",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallblackicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintallblue/",
+        "fileName": "nzrpunkintallblue.object",
+        "name": "nzrpunkintallblue",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallblueicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintallgreen/",
+        "fileName": "nzrpunkintallgreen.object",
+        "name": "nzrpunkintallgreen",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallgreenicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintallorange/",
+        "fileName": "nzrpunkintallorange.object",
+        "name": "nzrpunkintallorange",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallorangeicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintallpink/",
+        "fileName": "nzrpunkintallpink.object",
+        "name": "nzrpunkintallpink",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallpinkicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintallred/",
+        "fileName": "nzrpunkintallred.object",
+        "name": "nzrpunkintallred",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallredicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintallwhite/",
+        "fileName": "nzrpunkintallwhite.object",
+        "name": "nzrpunkintallwhite",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallwhiteicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkintallyellow/",
+        "fileName": "nzrpunkintallyellow.object",
+        "name": "nzrpunkintallyellow",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkintallyellowicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwide/",
+        "fileName": "nzrpunkinwide.object",
+        "name": "nzrpunkinwide",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwideicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwideblack/",
+        "fileName": "nzrpunkinwideblack.object",
+        "name": "nzrpunkinwideblack",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwideblackicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwideblue/",
+        "fileName": "nzrpunkinwideblue.object",
+        "name": "nzrpunkinwideblue",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwideblueicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwidegreen/",
+        "fileName": "nzrpunkinwidegreen.object",
+        "name": "nzrpunkinwidegreen",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwidegreenicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwideorange/",
+        "fileName": "nzrpunkinwideorange.object",
+        "name": "nzrpunkinwideorange",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwideorangeicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwidepink/",
+        "fileName": "nzrpunkinwidepink.object",
+        "name": "nzrpunkinwidepink",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwidepinkicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwidered/",
+        "fileName": "nzrpunkinwidered.object",
+        "name": "nzrpunkinwidered",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwideredicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwidewhite/",
+        "fileName": "nzrpunkinwidewhite.object",
+        "name": "nzrpunkinwidewhite",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwidewhiteicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/objects/punkins/nzrpunkinwideyellow/",
+        "fileName": "nzrpunkinwideyellow.object",
+        "name": "nzrpunkinwideyellow",
+        "shortdescription": "Punkin Pumpkin",
+        "category": "furniture",
+        "icon": "nzrpunkinwideyellowicon.png",
+        "rarity": "common",
+        "race": "halloween"
+    },
+    {
+        "path": "/items/armors/decorative/hats/witchhat/",
+        "fileName": "witchhat.head",
+        "name": "witchhat",
+        "shortdescription": "Spooky Witch Hat",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/generic/food/tier2/",
+        "fileName": "candypiece.consumable",
+        "name": "candypiece",
+        "shortdescription": "Sweet Candy",
+        "category": "preparedFood",
+        "icon": "candypiece.png",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/objects/generic/batlights/",
+        "fileName": "batlights.object",
+        "name": "batlights",
+        "shortdescription": "Spooky Bat Lights",
+        "category": "light",
+        "icon": "batlightsicon.png",
+        "rarity": "rare",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/candle/",
+        "fileName": "candle.object",
+        "name": "candle",
+        "shortdescription": "Wax Candle",
+        "category": "furniture",
+        "icon": "candleicon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/candybowl/",
+        "fileName": "candybowl.object",
+        "name": "candybowl",
+        "shortdescription": "Candy Bowl",
+        "category": "storage",
+        "icon": "icon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/halloweenlights/",
+        "fileName": "halloweenlights.object",
+        "name": "halloweenlights",
+        "shortdescription": "Halloween Lights",
+        "category": "light",
+        "icon": "halloweenlightsicon.png",
+        "rarity": "rare",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/jack-o-lantern/",
+        "fileName": "jackolantern.object",
+        "name": "jackolantern",
+        "shortdescription": "Jack O' Lantern",
+        "category": "furniture",
+        "icon": "jackolanternicon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/oddcandle/",
+        "fileName": "oddcandle.object",
+        "name": "oddcandle",
+        "shortdescription": "Unusual Wax Candle",
+        "category": "furniture",
+        "icon": "oddcandleicon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/orangehalloweenlights/",
+        "fileName": "orangehalloweenlights.object",
+        "name": "orangehalloweenlights",
+        "shortdescription": "Orange Halloween Lights",
+        "category": "light",
+        "icon": "orangehalloweenlightsicon.png",
+        "rarity": "rare",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/pentagram/",
+        "fileName": "pentagram.object",
+        "name": "pentagram",
+        "shortdescription": "Creepy Pentagram",
+        "category": "light",
+        "icon": "pentagramicon.png",
+        "rarity": "rare",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/spectralcandle/",
+        "fileName": "spectralcandle.object",
+        "name": "spectralcandle",
+        "shortdescription": "Spectral Wax Candle",
+        "category": "furniture",
+        "icon": "spectralcandleicon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/generic/spookysign/",
+        "fileName": "spookysign.object",
+        "name": "spookysign",
+        "shortdescription": "Spooky Sign",
+        "category": "decorative",
+        "icon": "spookysignicon.png",
+        "rarity": "uncommon",
+        "race": "human"
+    },
+    {
+        "path": "/items/active/unsorted/hauntedrwardbag/",
+        "fileName": "hauntedrwardbag.activeitem",
+        "name": "hauntedrwardbag",
+        "shortdescription": "Haunted Bag",
+        "category": "mysteriousReward",
+        "icon": "hauntedrwardbagicon.png",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/active/weapons/melee/axe/",
+        "fileName": "childofcornwep.activeitem",
+        "name": "childofcornwep",
+        "shortdescription": "Child of the Corn",
+        "category": "axe",
+        "icon": "childofcorn.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/active/weapons/melee/axe/",
+        "fileName": "hauntedheadtaker.activeitem",
+        "name": "hauntedheadtaker",
+        "shortdescription": "The Haunted Headtaker",
+        "category": "axe",
+        "icon": "hauntedheadtaker.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/active/weapons/melee/fist/matterfist/",
+        "fileName": "matterfist.activeitem",
+        "name": "matterfist",
+        "shortdescription": "Manicure Manipulator",
+        "category": "fistWeapon",
+        "icon": "matterfist.png:front",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/active/weapons/melee/hammer/",
+        "fileName": "pumpkinsmash.activeitem",
+        "name": "pumpkinsmash",
+        "shortdescription": "Smash-O-Lantern",
+        "category": "hammer",
+        "icon": "pumpkinsmash.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/active/weapons/melee/scythe/basicscythe/",
+        "fileName": "halbasicscythe.activeitem",
+        "name": "halbasicscythe",
+        "shortdescription": "Scythe",
+        "category": "scythe",
+        "icon": "basicscythe.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/active/weapons/melee/scythe/bonescythe/",
+        "fileName": "halbonescythe.activeitem",
+        "name": "halbonescythe",
+        "shortdescription": "Bone Scythe",
+        "category": "scythe",
+        "icon": "bonezone.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/active/weapons/melee/spear/devilpick/",
+        "fileName": "devilpick.activeitem",
+        "name": "devilpick",
+        "shortdescription": "Devilish Pitchfork",
+        "category": "spear",
+        "icon": "devilpick.png",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/active/weapons/ranged/hexxenn/",
+        "fileName": "hexxenn.activeitem",
+        "name": "hexxenn",
+        "shortdescription": "Hexenn V-1 Rifle",
+        "category": "assaultRifle",
+        "icon": "hexxenn.png",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/active/weapons/ranged/kandicannon/",
+        "fileName": "kandicannon.activeitem",
+        "name": "kandicannon",
+        "shortdescription": "Cavity Creator",
+        "category": "pistol",
+        "icon": "kandicannon.png",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/active/weapons/ranged/kandygun/",
+        "fileName": "kandygun.activeitem",
+        "name": "kandygun",
+        "shortdescription": "The Sweet Tooth",
+        "category": "assaultrifle",
+        "icon": "kandygun.png:default.1",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/active/weapons/ranged/misc/",
+        "fileName": "jack-o-launchericon.activeitem",
+        "name": "jack-o-launchericon",
+        "shortdescription": "Justice Launcher",
+        "category": "rocketLauncher",
+        "icon": "jack-o-launchericon.png",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/avali/werevali/",
+        "fileName": "werevali.chest",
+        "name": "werevalichest",
+        "shortdescription": "Werevali Shoulder Wrap",
+        "category": "codex",
+        "icon": "icons.png:chest",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/avali/werevali/",
+        "fileName": "werevali.head",
+        "name": "werevalihead",
+        "shortdescription": "Werevali Head",
+        "category": "codex",
+        "icon": "icons.png:head",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/avali/werevali/",
+        "fileName": "werevali.legs",
+        "name": "werevalipants",
+        "shortdescription": "Werevali Legs",
+        "category": "codex",
+        "icon": "icons.png:pants",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/fortunato/",
+        "fileName": "fortunato.chest",
+        "name": "fortunatochest",
+        "shortdescription": "Death's Robe Top",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/fortunato/",
+        "fileName": "fortunato.head",
+        "name": "fortunatohead",
+        "shortdescription": "Death's Hood",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/fortunato/",
+        "fileName": "fortunato.legs",
+        "name": "fortunatolegs",
+        "shortdescription": "Death's Robe Bottoms",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/grimreap/",
+        "fileName": "halgrimreap.chest",
+        "name": "halgrimreapchest",
+        "shortdescription": "Death's Robe Top",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/grimreap/",
+        "fileName": "halgrimreap.head",
+        "name": "halgrimreaphead",
+        "shortdescription": "Death's Hood",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/grimreap/",
+        "fileName": "halgrimreap.legs",
+        "name": "halgrimreaplegs",
+        "shortdescription": "Death's Robe Bottoms",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/haldevil/",
+        "fileName": "haldevil.back",
+        "name": "haldevilback",
+        "shortdescription": "Devilish Cloak",
+        "category": "backwear",
+        "icon": "icons.png:back",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/haldevil/",
+        "fileName": "haldevil.chest",
+        "name": "haldevilchest",
+        "shortdescription": "Devilish Shirt",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/haldevil/",
+        "fileName": "haldevil.head",
+        "name": "haldevilhead",
+        "shortdescription": "Devilish Horns",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/haldevil/",
+        "fileName": "haldevil.legs",
+        "name": "haldevillegs",
+        "shortdescription": "Devilish Pantaloons",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/hotwitch/",
+        "fileName": "hotwitch.chest",
+        "name": "hotwitchchest",
+        "shortdescription": "Witch Coat",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/hotwitch/",
+        "fileName": "hotwitch.head",
+        "name": "hotwitchhead",
+        "shortdescription": "Witch Hat",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/hotwitch/",
+        "fileName": "hotwitch.legs",
+        "name": "hotwitchpants",
+        "shortdescription": "Witch Legwear",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/lockjaw/",
+        "fileName": "lockjaw.chest",
+        "name": "lockjawchest",
+        "shortdescription": "Captain Lockjaw's Ghostly Coat",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/lockjaw/",
+        "fileName": "lockjaw.head",
+        "name": "lockjawhead",
+        "shortdescription": "Captain Lockjaw's Head",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/lockjaw/",
+        "fileName": "lockjaw.legs",
+        "name": "lockjawlegs",
+        "shortdescription": "Captain Lockjaw's Phantasmic Pantaloons",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/madscience/",
+        "fileName": "holmadscience.chest",
+        "name": "holmadsciencechest",
+        "shortdescription": "Mad Science Lab Coat",
+        "category": "chestarmour",
+        "icon": "icons.png:chest",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/madscience/",
+        "fileName": "holmadscience.head",
+        "name": "holmadsciencehead",
+        "shortdescription": "Mad Scientist Goggles",
+        "category": "headarmour",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/madscience/",
+        "fileName": "holmadscience.legs",
+        "name": "holmadsciencelegs",
+        "shortdescription": "Mad Scientist Pants",
+        "category": "legarmour",
+        "icon": "icons.png:pants",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/spookiscary/",
+        "fileName": "spookiscary.chest",
+        "name": "spookiscarychest",
+        "shortdescription": "Spooky Skeleton Shirt",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/spookiscary/",
+        "fileName": "spookiscary.head",
+        "name": "spookiscaryhead",
+        "shortdescription": "Scary Skeleton Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/spookiscary/",
+        "fileName": "spookiscary.legs",
+        "name": "spookiscarylegs",
+        "shortdescription": "Spooky Skele-Trousers",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/trink/trink-pump/",
+        "fileName": "trink-protectorate.chest",
+        "name": "trink-pumpchest",
+        "shortdescription": "Protectorate Arm Mod",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/trink/trink-pump/",
+        "fileName": "trink-protectorate.legs",
+        "name": "trink-pumplegs",
+        "shortdescription": "Protectorate Body Mod",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/trink/trink-pumpkin/",
+        "fileName": "trink-pumpkin.chest",
+        "name": "trink-pumpkinchest",
+        "shortdescription": "Pumpkin Arm Mod",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/trink/trink-pumpkin/",
+        "fileName": "trink-pumpkin.legs",
+        "name": "trink-pumpkinlegs",
+        "shortdescription": "Pumpkin Body Mod",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/vampyre/",
+        "fileName": "vampyre.back",
+        "name": "vampyreback",
+        "shortdescription": "Vampire's Cloak",
+        "category": "backwear",
+        "icon": "icons.png:back",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/vampyre/",
+        "fileName": "vampyre.chest",
+        "name": "vampyrechest",
+        "shortdescription": "Vampire Jacket",
+        "category": "chestwear",
+        "icon": "icons.png:chest",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/costumes/vampyre/",
+        "fileName": "vampyre.legs",
+        "name": "vampyrelegs",
+        "shortdescription": "Vampire Trousers",
+        "category": "legwear",
+        "icon": "icons.png:pants",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/daveyjonesy/",
+        "fileName": "daveyjonesy.head",
+        "name": "daveyjonesy",
+        "shortdescription": "Davey Jonesy's Hat",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/deadpiratehat/",
+        "fileName": "deadpirate.head",
+        "name": "deadpiratehead",
+        "shortdescription": "Dead Captain's Hat",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/hallowmask/hallowmask1/",
+        "fileName": "hallowmask1.head",
+        "name": "hallowmask1head",
+        "shortdescription": "Creepy Skull Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/hallowmask/hallowmask2/",
+        "fileName": "hallowmask2.head",
+        "name": "hallowmask2head",
+        "shortdescription": "Creepy Hylotl Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/hallowmask/hallowmask3/",
+        "fileName": "hallowmask3.head",
+        "name": "hallowmask3head",
+        "shortdescription": "Terrifying Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/hallowmask/hallowmask4/",
+        "fileName": "hallowmask4.head",
+        "name": "hallowmask4head",
+        "shortdescription": "Haunting Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/hallowmask/hallowmask5/",
+        "fileName": "hallowmask5.head",
+        "name": "hallowmask5head",
+        "shortdescription": "Haunting Hylotl Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/invisible/",
+        "fileName": "unseenvali.head",
+        "name": "unseenvalihead",
+        "shortdescription": "The Invisible Avali's Hat",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/jack/",
+        "fileName": "spritejack.head",
+        "name": "spritejack",
+        "shortdescription": "Jack's Head",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/nukegeneral/",
+        "fileName": "nukegeneral.head",
+        "name": "nukegeneral",
+        "shortdescription": "The General's Hat",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/phobe/phobemask1/",
+        "fileName": "phobemask1.head",
+        "name": "phobemask1head",
+        "shortdescription": "Phobe Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/phobe/phobemask2/",
+        "fileName": "phobemask2.head",
+        "name": "phobemask2head",
+        "shortdescription": "Tall Phobe Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/phobe/phobemask3/",
+        "fileName": "phobemask3.head",
+        "name": "phobemask3head",
+        "shortdescription": "Evil Phobe Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/phobe/phobemask4/",
+        "fileName": "phobemask4.head",
+        "name": "phobemask4head",
+        "shortdescription": "Bewitching Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/phobe/phobemask5/",
+        "fileName": "phobemask5.head",
+        "name": "phobemask5head",
+        "shortdescription": "Spooky Phobe Mask",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/pumpkin/halhumanoidpump/",
+        "fileName": "halhumanoidpump.head",
+        "name": "halhumanoidpump",
+        "shortdescription": "Humanoid Pumpkin Head",
+        "category": "headarmour",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/pumpkin/halhylotlpump/",
+        "fileName": "halhylotlpump.head",
+        "name": "halhylotlpump",
+        "shortdescription": "Hylotl Pumpkin Head",
+        "category": "headarmour",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/pumpkin/halpumpkinhead/",
+        "fileName": "halpumpkinhead.head",
+        "name": "halpumpkinhead",
+        "shortdescription": "Spooky Pumpkin Head",
+        "category": "headarmour",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/pumpkin/halpumpkinheadlit/",
+        "fileName": "halpumpkinheadlit.head",
+        "name": "halpumpkinheadlit",
+        "shortdescription": "Creepy Pumpkin Head",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/steamylizardhead/",
+        "fileName": "steamylizardhead.head",
+        "name": "steamylizardheadhead",
+        "shortdescription": "The Lizard Man",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "rare"
+    },
+    {
+        "path": "/items/armors/decorative/hats/theinvisibleman/",
+        "fileName": "invisibleman.head",
+        "name": "invisiblemanhead",
+        "shortdescription": "The Invisible Man's Hat",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/armors/decorative/hats/witch/",
+        "fileName": "witch.head",
+        "name": "witchhead",
+        "shortdescription": "Evil Witch Hat",
+        "category": "headwear",
+        "icon": "icons.png:head",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/generic/food/tier3/",
+        "fileName": "pumpkinpie.consumable",
+        "name": "pumpkinpie",
+        "shortdescription": "Pumpkin Pie",
+        "category": "preparedFood",
+        "icon": "pumpkinpie.png",
+        "rarity": "uncommon"
+    },
+    {
+        "path": "/items/generic/food/tier4/",
+        "fileName": "spookycandy.consumable",
+        "name": "spookycandy",
+        "shortdescription": "Spooky Candy",
+        "category": "preparedFood",
+        "icon": "spookycandy.png",
+        "rarity": "legendary"
+    },
+    {
+        "path": "/items/generic/other/",
+        "fileName": "strangeblue.consumable",
+        "name": "strangeblue",
+        "shortdescription": "Oddly Chilly Flask",
+        "category": "medicine",
+        "icon": "strangeblue.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/other/",
+        "fileName": "strangepink.consumable",
+        "name": "strangepink",
+        "shortdescription": "Glowing Pink Flask",
+        "category": "medicine",
+        "icon": "strangepink.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/other/",
+        "fileName": "strangepurple.consumable",
+        "name": "strangepurple",
+        "shortdescription": "Strange Flask",
+        "category": "medicine",
+        "icon": "strangepurple.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/other/",
+        "fileName": "strangered.consumable",
+        "name": "strangered",
+        "shortdescription": "Heated Red Flask",
+        "category": "medicine",
+        "icon": "strangered.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/items/generic/produce/",
+        "fileName": "pumpkin.consumable",
+        "name": "pumpkin",
+        "shortdescription": "Pumpkin",
+        "category": "food",
+        "icon": "pumpkin.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/objects/crafting/spookycrafter/",
+        "fileName": "spookycrafter.object",
+        "name": "spookycrafter",
+        "shortdescription": "^purple;Haunted Crafting Table^white;",
+        "category": "crafting",
+        "icon": "spookycraftericon.png",
+        "rarity": "rare",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/halloweenaddon/",
+        "fileName": "halloweenaddon.object",
+        "name": "halloweenaddon",
+        "shortdescription": "^orange;Halloween Addon^white;",
+        "category": "crafting",
+        "icon": "halloweenaddonicon.png",
+        "rarity": "legendary",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/farmables/pumpkin/",
+        "fileName": "pumpkinseed.object",
+        "name": "pumpkinseed",
+        "shortdescription": "Pumpkin Seed",
+        "category": "seed",
+        "icon": "pumpkinseedicon.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/objects/farmables/pumpkin/",
+        "fileName": "wildpumpkinseed.object",
+        "name": "wildpumpkinseed",
+        "shortdescription": "Pumpkin Seed",
+        "category": "seed",
+        "icon": "pumpkinseedicon.png",
+        "rarity": "common"
+    },
+    {
+        "path": "/objects/holiday/candybarrel/",
+        "fileName": "candybarrel.object",
+        "name": "candybarrel",
+        "shortdescription": "Candy Barrel",
+        "category": "storage",
+        "icon": "candybarrelicon.png",
+        "rarity": "rare",
+        "race": "clockwerk"
+    },
+    {
+        "path": "/objects/holiday/candychest/",
+        "fileName": "candychest.object",
+        "name": "candychest",
+        "shortdescription": "Candy Chest",
+        "category": "storage",
+        "icon": "candychesticon.png",
+        "rarity": "rare",
+        "race": "clockwerk"
+    },
+    {
+        "path": "/objects/holiday/cobwebcorner/",
+        "fileName": "cobwebcorner.object",
+        "name": "cobwebcorner",
+        "shortdescription": "Corner Cobweb",
+        "category": "decorative",
+        "icon": "cobwebcornericon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/creepymusicbox/",
+        "fileName": "creepymusicbox.object",
+        "name": "creepymusicbox",
+        "shortdescription": "Eerie Music Box",
+        "category": "decorative",
+        "icon": "creepymusicboxicon.png",
+        "rarity": "rare",
+        "race": "hylotl"
+    },
+    {
+        "path": "/objects/holiday/cupcrush/",
+        "fileName": "cupcrush.object",
+        "name": "cupcrush",
+        "shortdescription": "Crushed Party Cup",
+        "category": "furniture",
+        "icon": "cupcrush.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/cupstack/",
+        "fileName": "cupstack.object",
+        "name": "cupstack",
+        "shortdescription": "Stacked Party Cups",
+        "category": "furniture",
+        "icon": "cupstack.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/deadtectoratetree/",
+        "fileName": "deadtectoratetree.object",
+        "name": "deadtectoratetree",
+        "shortdescription": "Spooky Tree",
+        "category": "decorative",
+        "icon": "deadtectoratetreeicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/halloweenie/",
+        "fileName": "halloweenie.object",
+        "name": "halloweenie",
+        "shortdescription": "Halloween Banner",
+        "category": "decorative",
+        "icon": "halloweenieicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/hallowfountain/",
+        "fileName": "haltownfountain.object",
+        "name": "haltownfountain",
+        "shortdescription": "Spooky Stone Fountain",
+        "category": "decorative",
+        "icon": "fountainicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/hangingbat/",
+        "fileName": "hangingbat.object",
+        "name": "hangingbat",
+        "shortdescription": "Hanging Bat",
+        "category": "decorative",
+        "icon": "hangingbaticon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/hangingskeleton/",
+        "fileName": "hangingskeleton.object",
+        "name": "hangingskeleton",
+        "shortdescription": "Hanging Skeleton",
+        "category": "decorative",
+        "icon": "hangingskeletonicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/jackolantern1/",
+        "fileName": "jackolantern1.object",
+        "name": "jackolantern1",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "jackolanternicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/jackolantern2/",
+        "fileName": "jackolantern2.object",
+        "name": "jackolantern2",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "jackolanternicon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/jackolantern3/",
+        "fileName": "jackolantern3.object",
+        "name": "jackolantern3",
+        "shortdescription": "Jack O' Lantern",
+        "category": "light",
+        "icon": "jackolanternicon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/partycup/",
+        "fileName": "partycup.object",
+        "name": "partycup",
+        "shortdescription": "Party Cup",
+        "category": "furniture",
+        "icon": "partycup.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/punbowl/",
+        "fileName": "punbowl.object",
+        "name": "punbowl",
+        "shortdescription": "Party Punch Bowl",
+        "category": "furniture",
+        "icon": "punbowl.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/punchcupeye/",
+        "fileName": "punchcupeye.object",
+        "name": "punchcupeye",
+        "shortdescription": "Spooky cup",
+        "category": "furniture",
+        "icon": "punchcupeye.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/punchcupeye2/",
+        "fileName": "punchcupeye2.object",
+        "name": "punchcupeye2",
+        "shortdescription": "Spooky cup",
+        "category": "furniture",
+        "icon": "punchcupeye2.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/skullcandle/",
+        "fileName": "skullcandle.object",
+        "name": "skullcandle",
+        "shortdescription": "Skull Candle",
+        "category": "light",
+        "icon": "skullcandleicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookbox/",
+        "fileName": "spookbox.object",
+        "name": "spookbox",
+        "shortdescription": "The Spook Box",
+        "category": "decorative",
+        "icon": "spookboxicon.png",
+        "rarity": "common",
+        "race": "human"
+    },
+    {
+        "path": "/objects/holiday/spookportrait1/",
+        "fileName": "spookportrait1.object",
+        "name": "spookportrait1",
+        "shortdescription": "Count Nicholas's Portrait",
+        "category": "decorative",
+        "icon": "spookportrait1icon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookportrait2/",
+        "fileName": "spookportrait2.object",
+        "name": "spookportrait2",
+        "shortdescription": "Sir Clyde's Portrait",
+        "category": "decorative",
+        "icon": "spookportrait2icon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookportrait3/",
+        "fileName": "spookportrait3.object",
+        "name": "spookportrait3",
+        "shortdescription": "Charles Seymore's Painting",
+        "category": "decorative",
+        "icon": "spookportrait3icon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookportrait4/",
+        "fileName": "spookportrait4.object",
+        "name": "spookportrait4",
+        "shortdescription": "JACK'S Portrait",
+        "category": "decorative",
+        "icon": "spookportrait4icon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookportrait5/",
+        "fileName": "spookportrait5.object",
+        "name": "spookportrait5",
+        "shortdescription": "Suspicious Portrait",
+        "category": "decorative",
+        "icon": "spookportrait5icon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookychair/",
+        "fileName": "spookychair.object",
+        "name": "spookychair",
+        "shortdescription": "Opulent Chair",
+        "category": "furniture",
+        "icon": "spookychairicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookylights/",
+        "fileName": "spookylights.object",
+        "name": "spookylights",
+        "shortdescription": "Spooky Lights",
+        "category": "light",
+        "icon": "spookylightsicon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookypartytable/",
+        "fileName": "spookypartytable.object",
+        "name": "spookypartytable",
+        "shortdescription": "Spooky Party Table",
+        "category": "furniture",
+        "icon": "spookypartytableicon.png",
+        "rarity": "common",
+        "race": "generic"
+    },
+    {
+        "path": "/objects/holiday/spookypurplelights/",
+        "fileName": "spookypurplelights.object",
+        "name": "spookypurplelights",
+        "shortdescription": "Purple Fairy Lights",
+        "category": "light",
+        "icon": "spookypurplelightsicon.png",
+        "rarity": "uncommon",
+        "race": "generic"
+    }
+]

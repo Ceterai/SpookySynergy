@@ -1,0 +1,204 @@
+// Mod: Elithian Races (Elithian Alliance) (https://steamcommunity.com/sharedfiles/filedetails/?id=850109963)
+// It has a timed Halloween event called "Harrowing".
+// These patches modify the loot of the Harrowing Cache used in that event to add more variety and options from other Halloween mods.
+// The contents of this patch are similar to the patches for the Haunted Bag from The Spooky Scary Halloween Special mod.
+// Note that items exclusive to the Harrowing are not present in the Haunted Bag - this is intentional - to make sure the Elithian Alliance mod is purely optional.
+[
+  // Harrowing Cache (contains costumes, candy, and flasks)
+  [
+    {
+      "op" : "test",
+      "path" : "/harrowingTreasurebox"
+    },
+    {
+      "op" : "replace",
+      "path" : "/harrowingTreasurebox",
+      "value" : [
+        1,
+        {
+	        "fill" : [
+		        { "pool" : "harrowingEventArmour" },
+		        { "pool" : "harrowingEventCandy" },
+		        { "pool" : "halloweenFlask" }  // From The Spooky Scary Halloween Special mod
+          ]
+        }
+      ]
+    }
+  ],
+  // Harrowing Sweets (Candy, Treats, etc.)
+  [
+    {
+      "op" : "test",
+      "path" : "/harrowingEventCandy"
+    },
+    {
+      "op" : "replace",
+      "path" : "/harrowingEventCandy",
+      "value" : [
+        [
+          0,
+          {
+            "poolRounds" : [
+              [0.6, 1],
+              [0.3, 2],
+              [0.1, 3]
+            ],
+            "pool" : [
+              // Harrowing Candies from Elithian Races mod itself - 3.0 total weight
+              { "weight" : 0.5, "item" : "harrowingcandyaqua" },
+              { "weight" : 0.5, "item" : "harrowingcandyblue" },
+              { "weight" : 0.5, "item" : "harrowingcandygreen" },
+              { "weight" : 0.5, "item" : "harrowingcandyorange" },
+              { "weight" : 0.5, "item" : "harrowingcandypink" },
+              { "weight" : 0.5, "item" : "harrowingcandyyellow" },
+              // Candy (similar to the Haunted Bag loot) - 4.5 total weight
+              { "weight" : 0.6, "item" : "chocolate" },
+              { "weight" : 0.4, "item" : "candiedcorn" },
+              { "weight" : 0.2, "item" : [ "candiedcorn", 2 ] },
+              { "weight" : 0.1, "item" : [ "candiedcorn", 3 ] },
+              { "weight" : 0.4, "item" : "candypiece" },
+              { "weight" : 0.2, "item" : [ "candypiece", 2 ] },
+              { "weight" : 0.1, "item" : [ "candypiece", 3 ] },
+              { "weight" : 0.4, "item" : "nzrpumpkincandy" },
+              { "weight" : 0.2, "item" : [ "nzrpumpkincandy", 2 ] },
+              { "weight" : 0.1, "item" : [ "nzrpumpkincandy", 3 ] },
+              { "weight" : 0.4, "item" : "nzrpumpkinchocolates" },
+              { "weight" : 0.25, "item" : "spookycandy" },
+              { "weight" : 0.1, "item" : [ "spookycandy", 5 ] },
+              { "weight" : 0.05, "item" : [ "spookycandy", 10 ] },
+              { "weight" : 0.5, "item" : "candyapple" },
+              { "weight" : 0.5, "item" : "candyautomato" },
+              // Other Treats (similar to the Haunted Bag loot) - 1.6 total weight
+              { "weight" : 0.15, "item" : "nzrcandycorn" },
+              { "weight" : 0.05, "item" : "nzrpumpkincookie" },
+              { "weight" : 0.05, "item" : "nzrpumpkinmuffin" },
+              { "weight" : 0.15, "item" : "nzrspicedpumpkinseed" },
+              { "weight" : 0.05, "item" : "nzrpumpkincreampie" },
+              { "weight" : 0.05, "item" : "nzrpumpkincupcake" },
+              { "weight" : 0.15, "item" : "nzrpumpkindonut" },
+              { "weight" : 0.05, "item" : "nzrpumpkinicecream" },
+              { "weight" : 0.05, "item" : "nzrpumpkinminidonuts" },
+              { "weight" : 0.05, "item" : "nzrpumpkinmochi" },
+              { "weight" : 0.05, "item" : "nzrpumpkinparfait" },
+              { "weight" : 0.15, "item" : "nzrpumpkinpie" },
+              { "weight" : 0.05, "item" : "nzrpumpkinpudding" },
+              { "weight" : 0.05, "item" : "nzrpumpkinringcake" },
+              { "weight" : 0.05, "item" : "nzrpumpkinroll" },
+              { "weight" : 0.15, "item" : "pumpkinpie" },
+              { "weight" : 0.15, "item" : "spookydonut" },
+              { "weight" : 0.15, "item" : "spookypie" }
+              // Total weight: 9.1
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  // Harrowing Costumes (Masks, Hats, etc.)
+  [
+    {
+      "op" : "test",
+      "path" : "/harrowingEventArmour"
+    },
+    {
+      "op" : "replace",
+      "path" : "/harrowingEventArmour",
+      "value" : [
+        [
+          0,
+          {
+            "pool" : [
+              // Harrowing Costumes from Elithian Races mod itself
+              { "weight" : 0.2, "item" : "aegi-centenshead" },
+              { "weight" : 0.2, "item" : "aegi-pumpkinhead" },
+              { "weight" : 0.2, "item" : "aegi-trinkhead" },
+              { "weight" : 0.2, "item" : "aegi-spookyhead" },
+              { "weight" : 0.2, "item" : "avikan-drodenhead" },
+              { "weight" : 0.2, "item" : "avikan-sandspitterhead" },
+              { "weight" : 0.2, "item" : "avikan-theleanhead" },
+              { "weight" : 0.2, "item" : "avikan-oculushead" },
+              { "weight" : 0.2, "item" : "droden-avikanhead" },
+              { "weight" : 0.2, "item" : "droden-drahlhead" },
+              { "weight" : 0.2, "item" : "droden-sandcrawlerhead" },
+              { "weight" : 0.2, "item" : "droden-skullhead" },
+              { "weight" : 0.2, "item" : "trink-ghost" },
+              { "weight" : 0.2, "item" : "trink-notix" },
+              { "weight" : 0.2, "item" : "trink-pumpkin" },
+              { "weight" : 0.2, "item" : "trink-tentacle" },
+              // Harrowing Costumes - Monster Masks
+              { "weight" : 0.25, "item" : "aegi-ooglerhead" },
+              { "weight" : 0.25, "item" : "aegi-poptophead" },
+              { "weight" : 0.25, "item" : "aegi-spookithead" },
+              // The Spooky Scary Halloween Special
+              { "weight" : 0.1, "item" : "hallowmask1head" },
+              { "weight" : 0.1, "item" : "hallowmask2head" },
+              { "weight" : 0.1, "item" : "hallowmask3head" },
+              { "weight" : 0.1, "item" : "hallowmask4head" },
+              { "weight" : 0.1, "item" : "hallowmask5head" },
+              { "weight" : 0.15, "item" : "phobemask1head" },
+              { "weight" : 0.15, "item" : "phobemask2head" },
+              { "weight" : 0.15, "item" : "phobemask3head" },
+              { "weight" : 0.15, "item" : "phobemask4head" },
+              { "weight" : 0.15, "item" : "phobemask5head" },
+              { "weight" : 0.08, "item" : "halhumanoidpump" },
+              { "weight" : 0.08, "item" : "halhylotlpump" },
+              { "weight" : 0.08, "item" : "halpumpkinhead" },
+              { "weight" : 0.06, "item" : "deadpiratehead" },        
+              { "weight" : 0.06, "item" : "daveyjonesy" },        
+              { "weight" : 0.06, "item" : "nukegeneral" },        
+              { "weight" : 0.06, "item" : "spritejack" },        
+              { "weight" : 0.06, "item" : "steamylizardheadhead" },        
+              { "weight" : 0.06, "item" : "witchhead" },
+              { "weight" : 0.03, "item" : "invisiblemanhead" },
+              { "weight" : 0.03, "item" : "halpumpkinheadlit" },
+              // Starbound Halloween Mod
+              { "weight" : 0.04, "item" : "witchhat" },
+              // Vanilla Wizard Hats
+              { "weight" : 0.02, "item" : [ "wizardhead", 1, { "colorIndex" : 1 } ] },
+              { "weight" : 0.02, "item" : [ "wizardhead", 1, { "colorIndex" : 11 } ] },
+              // Vanilla Skulls
+              { "weight" : 0.01, "item" : "alienskullhead" },
+              { "weight" : 0.01, "item" : "goathead" },
+              { "weight" : 0.01, "item" : "skullmaskhead" },
+              { "weight" : 0.01, "item" : "dreadfulskullhead" },
+              { "weight" : 0.01, "item" : "rustyskul" },
+              { "weight" : 0.01, "item" : "jeffback" },
+              // Vanilla Species
+              { "weight" : 0.005, "item" : "anatomyapexhead" },
+              { "weight" : 0.005, "item" : "apexskullhead" },
+              { "weight" : 0.005, "item" : "anatomyavianhead" },
+              { "weight" : 0.005, "item" : "avianskullhead" },
+              { "weight" : 0.005, "item" : "floranskullhead" },
+              { "weight" : 0.005, "item" : "glitchskullhead" },
+              { "weight" : 0.005, "item" : "anatomyhead" },
+              { "weight" : 0.005, "item" : "humanskullhead" },
+              { "weight" : 0.005, "item" : "anatomyhylotlhead" },
+              { "weight" : 0.005, "item" : "hylotlskullhead" },
+              // Vanilla
+              { "weight" : 0.005, "item" : "armoredcultisthead" },
+              { "weight" : 0.005, "item" : "cultisthead" },
+              { "weight" : 0.005, "item" : "plaguedoctorhead" },
+              { "weight" : 0.005, "item" : "vicioushead" },
+              { "weight" : 0.005, "item" : "demonhornshead" },
+              { "weight" : 0.005, "item" : "plaguemasterhead" },
+              { "weight" : 0.005, "item" : "bonewingsback" },
+              { "weight" : 0.005, "item" : "batwingsback" },
+              // Vanilla Monster
+              { "weight" : 0.005, "item" : [ "eyehead", 1, { "colorIndex" : 2 } ] },
+              { "weight" : 0.005, "item" : [ "evilmushroomhead", 1, { "colorIndex" : 1 } ] },
+              { "weight" : 0.005, "item" : [ "eyehead2", 1, { "colorIndex" : 2 } ] },
+              { "weight" : 0.005, "item" : [ "beachcreeperhead", 1, { "colorIndex" : 6 } ] },
+              { "weight" : 0.005, "item" : [ "cyclopsyetihead", 1, { "colorIndex" : 1 } ] },
+              { "weight" : 0.005, "item" : [ "eyeballhead", 1, { "colorIndex" : 3 } ] },
+              { "weight" : 0.005, "item" : [ "lagoonhead", 1, { "colorIndex" : 2 } ] },
+              { "weight" : 0.015, "item" : [ "slimehead", 1, { "colorIndex" : 4 } ] },
+              // Vanilla Pirate
+              { "weight" : 0.005, "item" : "eyepatchhead" },
+              { "weight" : 0.005, "item" : [ "piratehead", 1, { "colorIndex" : 9 } ] }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+]

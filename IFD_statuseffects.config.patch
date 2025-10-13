@@ -1,0 +1,9 @@
+[
+  {"op":"add","path":"/effectNames/spooped","value":{"customLabels":["^green;+ Spooped^reset;"],"path":"/stats/effects/spooped/spooped.statuseffect"}},
+  {"op":"add","path":"/effectNames/bleeding","value":{"customLabels":["^green;+ Bleeding^reset;"],"path":"/stats/effects/bleeding/bleeding.statuseffect"}},
+  {"op":"add","path":"/effectNames/bluestrange","value":{"customLabels":["^green;+ Blue Strange^reset;"],"path":"/stats/effects/bluestrange/bluestrange.statuseffect"}},
+  {"op":"add","path":"/effectNames/invisibleman","value":{"customLabels":["^green;+ The Invisible Man^reset;"],"path":"/stats/effects/invisibleman/invisibleman.statuseffect"}},
+  {"op":"add","path":"/effectNames/pinkstrange","value":{"customLabels":["^green;+ Party Animal^reset;"],"path":"/stats/effects/pinkstrange/pinkstrange.statuseffect"}},
+  {"op":"add","path":"/effectNames/pumpkinheadlamp","value":{"customLabels":["^green;+ Pumpkin Headlamp^reset;"],"path":"/stats/effects/pumpkinheadlamp/pumpkinheadlamp.statuseffect"}},
+  {"op":"add","path":"/effectNames/redstrange","value":{"customLabels":["^green;+ Enraged^reset;"],"path":"/stats/effects/redstrange/redstrange.statuseffect"}}
+]

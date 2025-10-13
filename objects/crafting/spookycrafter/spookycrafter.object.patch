@@ -1,0 +1,207 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "haltownfountain"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "hauntedrwardbag"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "prisongraffiti4"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookportrait5"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookybed"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookycandles"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookycauldron"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookyclock"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookypumpkinhead"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spookytombchair"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "spooplantern"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombbrick4"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone1"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone2"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone3"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone4"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone5"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone6"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone7"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone8"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone9"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombstone10"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombthing1"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombthing2"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "tombthing3"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "gothicbed"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "gothicchair"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "gothiccouch"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "gothicbookcase"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "gothicdoor"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "gothiclight"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup",
+            "value": [
+                "haltownfountain",
+                "hauntedrwardbag",
+                "prisongraffiti4",
+                "spookportrait5",
+                "spookybed",
+                "spookycandles",
+                "spookycauldron",
+                "spookyclock",
+                "spookypumpkinhead",
+                "spookytombchair",
+                "spooplantern",
+                "tombbrick4",
+                "tombstone1",
+                "tombstone2",
+                "tombstone3",
+                "tombstone4",
+                "tombstone5",
+                "tombstone6",
+                "tombstone7",
+                "tombstone8",
+                "tombstone9",
+                "tombstone10",
+                "tombthing1",
+                "tombthing2",
+                "tombthing3",
+                "gothicbed",
+                "gothicchair",
+                "gothiccouch",
+                "gothicbookcase",
+                "gothicdoor",
+                "gothiclight"
+            ]
+        }
+    ]
+]

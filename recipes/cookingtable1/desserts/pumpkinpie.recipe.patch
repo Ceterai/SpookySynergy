@@ -8,6 +8,7 @@
             "op": "replace",
             "path": "/groups",
             "value": [
+                "spookysynergy",
                 "craftingfood",
                 "desserts",
                 "alta_food",

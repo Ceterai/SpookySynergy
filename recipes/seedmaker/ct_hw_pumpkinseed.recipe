@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item": "pumpkin", "count": 5 },
+    { "item": "plantfibre", "count": 20 }
+  ],
+  "output" : { "item" : "pumpkinseed", "count" : 1 },
+  "groups" : [
+    "spookysynergy",
+    "seedmaker",
+    "seedsMods",
+    "all",
+    "mod"
+  ]
+}

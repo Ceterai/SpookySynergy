@@ -1,0 +1,4 @@
+[
+  {"op":"add","path":"/farm/T1/pumpkin","value":true},
+  {"op":"add","path":"/farm/T1/nzrpumpkin","value":true}
+]

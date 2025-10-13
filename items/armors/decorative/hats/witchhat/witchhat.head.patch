@@ -31,5 +31,16 @@
             "path": "/price",
             "value": 500
         }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/colorOptions"
+        },
+        {
+            "op": "replace",
+            "path": "/colorOptions/0",
+            "value": { "ffca8a" : "50067f", "e0975c" : "43036c", "a85636" : "320052", "6f2919" : "1f0033" }
+        }
     ]
 ]

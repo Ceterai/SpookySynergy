@@ -1,6 +1,6 @@
 # Spooky Synergy
 
-A Hallowing Patch Mod for Starbound! **Welcome to [Halloween Ceternity](https://steamcommunity.com/sharedfiles/filedetails/?id=3580687852)!**
+A Hallowing Patch Mod for Starbound! **Welcome to [Halloween Ceternity](https://steamcommunity.com/sharedfiles/filedetails/?id=3580687852)! 🎃**
 
 Get this mod on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3582677809) or [GitHub](https://github.com/Ceterai/SpookySynergy).
 
@@ -18,21 +18,25 @@ It does this by:
 - Adding recipes for the vanilla tombstones (also in that table).
 - Adding missing recipes for some **TSSHS** objects and items.
 - Rebalancing prices, rarities and crafting recipes.
+- Adding support for popular mods like **Tabula Rasa**, **Wardrobe Interface**, **Spawnable Item Pack**, **Equivalent Exchange**, **Improved Food Descriptions** and **Craftable Seeds**.
 
 ## Affected Mods
 
-- [**The Spooky Scary Halloween Special**](https://steamcommunity.com/sharedfiles/filedetails/?id=787822075) (optional): The foundation of the Hallowing theme, providing majority of the content, a crafting table, a dungeon, etc.
+- [**The Spooky Scary Halloween Special**](https://steamcommunity.com/sharedfiles/filedetails/?id=787822075) (not necessary, but recommended): The foundation of the Hallowing theme, providing majority of the content, a crafting table, a dungeon, etc.
   - Its **pumpkins** and related things were renamed to **turnips** to not clash with **Nazar's Halloween** mod.
   - Fixed **Haunted Bag**'s logic and made it stackable and craftable.
   - Enhanced **Haunted Bag** to include items from other mods and some vanilla items too.
   - I highly recommend also installing the [**The Spooky Scary Halloween Special - Good Game's fixes**](https://steamcommunity.com/sharedfiles/filedetails/?id=3347411505) mod as it contains a lot of neat fixes.
-  - If you don't want to install TSSHS, you can still use this patch mod, and access the recipes from the **Haunted Crafting Table** through **Tabula Rasa** (if you have it).
+  - If you don't want to install TSSHS, you can still use this patch mod, and access the recipes from the **Haunted Crafting Table** through [Tabula Rasa](https://steamcommunity.com/sharedfiles/filedetails/?id=737353165) (if you have it).
 - [**Nazar's Halloween**](https://steamcommunity.com/sharedfiles/filedetails/?id=3358066460): Adds pumpkins, a lot of colorable pumpkin decorations and A LOT of pumpkin-based dishes.
   - Candy is now used in some recipes in the **Haunted Crafting Table**.
   - Made some food items stackable.
 - [**Starbound Halloween Mod**](https://steamcommunity.com/sharedfiles/filedetails/?id=1546609396): Introduces a variety of different Halloween decorations, including candles!
   - Candles are now used in recipes of all jack-o-lanterns and some other decorations.
   - Candy was renamed and is now used in some recipes in the **Haunted Crafting Table**.
+- [OPTIONAL] [**Elithian Races Mod**](https://steamcommunity.com/sharedfiles/filedetails/?id=850109963): Aside from many additions, it also adds a timed Halloween-themed event called "Harrowing". For full Halloween experience I recommend also installing [**Spooky Synergy - The Harrowing**](https://steamcommunity.com/sharedfiles/filedetails/?id=3586407233), as it adds full integration between the two mods. **If not**, you still get the following:
+  - The **Harrowing Cache** will have its drops enhanced with flasks, cosmetics and candy from the **Haunted Bag**.
+  - Candy is rebalanced to match the other Halloween mods.
 
 ## Compatible Mods
 
@@ -51,7 +55,9 @@ These mods go well together with the spooky mods listed below:
 - The patch is intended to be a part of the **[Halloween Ceternity](https://steamcommunity.com/sharedfiles/filedetails/?id=3580687852)** mod collection.
 - Compatible with Starbound version 1.4 and above.
 - Works alongside most mods. If you encounter conflicts, please report them in the Issues section.
-- Requires all 4 mods listed in the "Affected Mods" section to be installed for full functionality.
+- Requires all 3 mods listed in the "Affected Mods" section to be installed for full functionality.
+- Compatible with [Tabula Rasa](https://steamcommunity.com/sharedfiles/filedetails/?id=737353165): all recipes from the **Haunted Crafting Table** (and more) can be accessed through it.
+  - Includes a custom filter button for all those recipes.
 
 ## Removal
 
@@ -70,8 +76,12 @@ The mod should be easily removeable as it only contains patches and recipes.
 
 See the [CHANGELOG.md](CHANGELOG.md) file for a detailed changelog.
 
+## Technical Details
+
+- Most of the files in this mod are [JSON patches](https://en.wikipedia.org/wiki/JSON_Patch) that modify the original files of the affected mods. Useful guide on working with JSON patches: [SB Modding: JSON Patching Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2124444255)
+
 ## Support & Feedback
 
 For bug reports, suggestions, or feedback, please open an issue on the [GitHub repository](https://github.com/Ceterai/SpookySynergy).
 
-Enjoy your spooky adventure in Starbound!
+Enjoy your spooky adventure in Starbound! 🎃

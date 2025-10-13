@@ -6,6 +6,7 @@
   ],
   "output" : { "item" : "spookypumpkinhead", "count" : 1 },
   "groups" : [
+    "spookysynergy",
     "spookycrafter",
     "lights",
     "objects",

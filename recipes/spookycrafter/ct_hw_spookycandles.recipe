@@ -7,6 +7,7 @@
   ],
   "output" : { "item" : "spookycandles", "count" : 1 },
   "groups" : [
+    "spookysynergy",
     "spookycrafter",
     "lights",
     "objects",

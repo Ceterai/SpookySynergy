@@ -1,0 +1,16 @@
+[
+    {
+        "op": "test",
+        "path": "/groups"
+    },
+    {
+        "op": "add",
+        "path": "/groups/-",
+        "value": "spookysynergy"
+    },
+    {
+        "op": "add",
+        "path": "/groups/-",
+        "value": "mod"
+    }
+]

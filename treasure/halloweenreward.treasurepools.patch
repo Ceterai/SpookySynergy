@@ -1,182 +1,186 @@
+// Loot patches for the Haunted Bag from The Spooky Scary Halloween Special mod.
+// These patches add more variety and options from other Halloween mods.
 [
+  // Halloween Sweets (Candy, Treats, etc.)
   [
-	{
-	  "op" : "test",
-	  "path" : "/halloweenSweets"
-	},
-  {
-    "op" : "replace",
-	"path" : "/halloweenSweets",
-	"value" : [
-	  [
-		0,
-		{
-	  	  "poolRounds" : [
-		    [0.2, 1],
-			[0.65, 2],
-			[0.45, 3],
-			[0.1, 4]
-	      ],
-		  "pool" : [
-			// Candy
-			{ "weight" : 0.6, "item" : "chocolate" },
-			{ "weight" : 0.4, "item" : "candiedcorn" },
-			{ "weight" : 0.2, "item" : [ "candiedcorn", 2 ] },
-			{ "weight" : 0.1, "item" : [ "candiedcorn", 3 ] },
-			{ "weight" : 0.4, "item" : "candypiece" },
-			{ "weight" : 0.2, "item" : [ "candypiece", 2 ] },
-			{ "weight" : 0.1, "item" : [ "candypiece", 3 ] },
-			{ "weight" : 0.4, "item" : "nzrpumpkincandy" },
-			{ "weight" : 0.2, "item" : [ "nzrpumpkincandy", 2 ] },
-			{ "weight" : 0.1, "item" : [ "nzrpumpkincandy", 3 ] },
-			{ "weight" : 0.4, "item" : "nzrpumpkinchocolates" },
-			{ "weight" : 0.25, "item" : "spookycandy" },
-			{ "weight" : 0.1, "item" : [ "spookycandy", 5 ] },
-			{ "weight" : 0.05, "item" : [ "spookycandy", 10 ] },
-			{ "weight" : 0.5, "item" : "candyapple" },
-			{ "weight" : 0.5, "item" : "candyautomato" },
-			// Other Treats
-			{ "weight" : 0.15, "item" : "nzrcandycorn" },
-			{ "weight" : 0.05, "item" : "nzrpumpkincookie" },
-			{ "weight" : 0.05, "item" : "nzrpumpkinmuffin" },
-			{ "weight" : 0.15, "item" : "nzrspicedpumpkinseed" },
-			{ "weight" : 0.05, "item" : "nzrpumpkincreampie" },
-			{ "weight" : 0.05, "item" : "nzrpumpkincupcake" },
-			{ "weight" : 0.15, "item" : "nzrpumpkindonut" },
-			{ "weight" : 0.05, "item" : "nzrpumpkinicecream" },
-			{ "weight" : 0.05, "item" : "nzrpumpkinminidonuts" },
-			{ "weight" : 0.05, "item" : "nzrpumpkinmochi" },
-			{ "weight" : 0.05, "item" : "nzrpumpkinparfait" },
-			{ "weight" : 0.15, "item" : "nzrpumpkinpie" },
-			{ "weight" : 0.05, "item" : "nzrpumpkinpudding" },
-			{ "weight" : 0.05, "item" : "nzrpumpkinringcake" },
-			{ "weight" : 0.05, "item" : "nzrpumpkinroll" },
+    {
+      "op" : "test",
+      "path" : "/halloweenSweets"
+    },
+    {
+      "op" : "replace",
+      "path" : "/halloweenSweets",
+      "value" : [
+        [
+          0,
+          {
+            "poolRounds" : [
+              [0.2, 1],
+              [0.65, 2],
+              [0.45, 3],
+              [0.1, 4]
+            ],
+            "pool" : [
+              // Candy
+              { "weight" : 0.6, "item" : "chocolate" },
+              { "weight" : 0.4, "item" : "candiedcorn" },
+              { "weight" : 0.2, "item" : [ "candiedcorn", 2 ] },
+              { "weight" : 0.1, "item" : [ "candiedcorn", 3 ] },
+              { "weight" : 0.4, "item" : "candypiece" },
+              { "weight" : 0.2, "item" : [ "candypiece", 2 ] },
+              { "weight" : 0.1, "item" : [ "candypiece", 3 ] },
+              { "weight" : 0.4, "item" : "nzrpumpkincandy" },
+              { "weight" : 0.2, "item" : [ "nzrpumpkincandy", 2 ] },
+              { "weight" : 0.1, "item" : [ "nzrpumpkincandy", 3 ] },
+              { "weight" : 0.4, "item" : "nzrpumpkinchocolates" },
+              { "weight" : 0.25, "item" : "spookycandy" },
+              { "weight" : 0.1, "item" : [ "spookycandy", 5 ] },
+              { "weight" : 0.05, "item" : [ "spookycandy", 10 ] },
+              { "weight" : 0.5, "item" : "candyapple" },
+              { "weight" : 0.5, "item" : "candyautomato" },
+              // Other Treats
+              { "weight" : 0.15, "item" : "nzrcandycorn" },
+              { "weight" : 0.05, "item" : "nzrpumpkincookie" },
+              { "weight" : 0.05, "item" : "nzrpumpkinmuffin" },
+              { "weight" : 0.15, "item" : "nzrspicedpumpkinseed" },
+              { "weight" : 0.05, "item" : "nzrpumpkincreampie" },
+              { "weight" : 0.05, "item" : "nzrpumpkincupcake" },
+              { "weight" : 0.15, "item" : "nzrpumpkindonut" },
+              { "weight" : 0.05, "item" : "nzrpumpkinicecream" },
+              { "weight" : 0.05, "item" : "nzrpumpkinminidonuts" },
+              { "weight" : 0.05, "item" : "nzrpumpkinmochi" },
+              { "weight" : 0.05, "item" : "nzrpumpkinparfait" },
+              { "weight" : 0.15, "item" : "nzrpumpkinpie" },
+              { "weight" : 0.05, "item" : "nzrpumpkinpudding" },
+              { "weight" : 0.05, "item" : "nzrpumpkinringcake" },
+              { "weight" : 0.05, "item" : "nzrpumpkinroll" },
 
-			{ "weight" : 0.15, "item" : "pumpkinpie" },
-			{ "weight" : 0.15, "item" : "spookydonut" },
-			{ "weight" : 0.15, "item" : "spookypie" }
-		  ]
-		}
-	  ]
-	]
-  }
-],
+              { "weight" : 0.15, "item" : "pumpkinpie" },
+              { "weight" : 0.15, "item" : "spookydonut" },
+              { "weight" : 0.15, "item" : "spookypie" }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  // Halloween Costumes (Masks, Hats, etc.)
   [
-	{
-	  "op" : "test",
-	  "path" : "/halloweenCostume"
-	},
-  {
-	"op" : "replace",
-	"path" : "/halloweenCostume",
-	"value" : [
-	  [
-		0,
-		{
-		  "poolRounds" : [
-	    	[0.4, 0],
-			[0.6, 1]
-	      ],
-		  "pool" : [
-			// The Spooky Scary Halloween Special
-			{ "weight" : 0.1, "item" : "hallowmask1head" },
-			{ "weight" : 0.1, "item" : "hallowmask2head" },
-			{ "weight" : 0.1, "item" : "hallowmask3head" },
-			{ "weight" : 0.1, "item" : "hallowmask4head" },
-			{ "weight" : 0.1, "item" : "hallowmask5head" },
-			{ "weight" : 0.15, "item" : "phobemask1head" },
-			{ "weight" : 0.15, "item" : "phobemask2head" },
-			{ "weight" : 0.15, "item" : "phobemask3head" },
-			{ "weight" : 0.15, "item" : "phobemask4head" },
-			{ "weight" : 0.15, "item" : "phobemask5head" },
-			{ "weight" : 0.08, "item" : "halhumanoidpump" },
-			{ "weight" : 0.08, "item" : "halhylotlpump" },
-			{ "weight" : 0.08, "item" : "halpumpkinhead" },
-			{ "weight" : 0.06, "item" : "deadpiratehead" },		
-			{ "weight" : 0.06, "item" : "daveyjonesy" },		
-			{ "weight" : 0.06, "item" : "nukegeneral" },		
-			{ "weight" : 0.06, "item" : "spritejack" },		
-			{ "weight" : 0.06, "item" : "steamylizardheadhead" },		
-			{ "weight" : 0.06, "item" : "witchhead" },
-			{ "weight" : 0.03, "item" : "invisiblemanhead" },
-			{ "weight" : 0.03, "item" : "halpumpkinheadlit" },
-			// The Spooky Scary Halloween Special (Excluded)
-			// { "weight" : 0.005, "item" : "werevalihead" },
-			// { "weight" : 0.005, "item" : "werevalichest" },
-			// { "weight" : 0.005, "item" : "werevalipants" },
-			// { "weight" : 0.005, "item" : "fortunatohead" },
-			// { "weight" : 0.005, "item" : "fortunatochest" },
-			// { "weight" : 0.005, "item" : "fortunatolegs" },
-			// { "weight" : 0.005, "item" : "halgrimreaphead" },
-			// { "weight" : 0.005, "item" : "halgrimreapchest" },
-			// { "weight" : 0.005, "item" : "halgrimreaplegs" },
-			// { "weight" : 0.005, "item" : "haldevilhead" },
-			// { "weight" : 0.005, "item" : "haldevilchest" },
-			// { "weight" : 0.005, "item" : "haldevillegs" },
-			// { "weight" : 0.005, "item" : "haldevilback" },
-			// { "weight" : 0.005, "item" : "hotwitchhead" },
-			// { "weight" : 0.005, "item" : "hotwitchchest" },
-			// { "weight" : 0.005, "item" : "hotwitchpants" },
-			// { "weight" : 0.005, "item" : "lockjawhead" },
-			// { "weight" : 0.005, "item" : "lockjawchest" },
-			// { "weight" : 0.005, "item" : "lockjawlegs" },
-			// { "weight" : 0.005, "item" : "holmadsciencehead" },
-			// { "weight" : 0.005, "item" : "holmadsciencechest" },
-			// { "weight" : 0.005, "item" : "holmadsciencelegs" },
-			// { "weight" : 0.005, "item" : "spookiscaryhead" },
-			// { "weight" : 0.005, "item" : "spookiscarychest" },
-			// { "weight" : 0.005, "item" : "spookiscarylegs" },
-			// { "weight" : 0.005, "item" : "vampyrechest" },
-			// { "weight" : 0.005, "item" : "vampyrelegs" },
-			// { "weight" : 0.005, "item" : "vampyreback" },
-			// Starbound Halloween Mod
-			{ "weight" : 0.04, "item" : "witchhat" },
-			// Vanilla Wizard Hats
-			{ "weight" : 0.02, "item" : [ "wizardhead", 1, { "colorIndex" : 1 } ] },
-			{ "weight" : 0.02, "item" : [ "wizardhead", 1, { "colorIndex" : 11 } ] },
-			// Vanilla Skulls
-			{ "weight" : 0.01, "item" : "alienskullhead" },
-			{ "weight" : 0.01, "item" : "goathead" },
-			{ "weight" : 0.01, "item" : "skullmaskhead" },
-			{ "weight" : 0.01, "item" : "dreadfulskullhead" },
-			{ "weight" : 0.01, "item" : "rustyskul" },
-			{ "weight" : 0.01, "item" : "jeffback" },
-			// Vanilla Species
-			{ "weight" : 0.005, "item" : "anatomyapexhead" },
-			{ "weight" : 0.005, "item" : "apexskullhead" },
-			{ "weight" : 0.005, "item" : "anatomyavianhead" },
-			{ "weight" : 0.005, "item" : "avianskullhead" },
-			{ "weight" : 0.005, "item" : "floranskullhead" },
-			{ "weight" : 0.005, "item" : "glitchskullhead" },
-			{ "weight" : 0.005, "item" : "anatomyhead" },
-			{ "weight" : 0.005, "item" : "humanskullhead" },
-			{ "weight" : 0.005, "item" : "anatomyhylotlhead" },
-			{ "weight" : 0.005, "item" : "hylotlskullhead" },
-			// Vanilla
-			{ "weight" : 0.005, "item" : "armoredcultisthead" },
-			{ "weight" : 0.005, "item" : "cultisthead" },
-			{ "weight" : 0.005, "item" : "plaguedoctorhead" },
-			{ "weight" : 0.005, "item" : "vicioushead" },
-			{ "weight" : 0.005, "item" : "demonhornshead" },
-			{ "weight" : 0.005, "item" : "plaguemasterhead" },
-			{ "weight" : 0.005, "item" : "bonewingsback" },
-			{ "weight" : 0.005, "item" : "batwingsback" },
-			// Vanilla Monster
-			{ "weight" : 0.005, "item" : [ "eyehead", 1, { "colorIndex" : 2 } ] },
-			{ "weight" : 0.005, "item" : [ "evilmushroomhead", 1, { "colorIndex" : 1 } ] },
-			{ "weight" : 0.005, "item" : [ "eyehead2", 1, { "colorIndex" : 2 } ] },
-			{ "weight" : 0.005, "item" : [ "beachcreeperhead", 1, { "colorIndex" : 6 } ] },
-			{ "weight" : 0.005, "item" : [ "cyclopsyetihead", 1, { "colorIndex" : 1 } ] },
-			{ "weight" : 0.005, "item" : [ "eyeballhead", 1, { "colorIndex" : 3 } ] },
-			{ "weight" : 0.005, "item" : [ "lagoonhead", 1, { "colorIndex" : 2 } ] },
-			{ "weight" : 0.015, "item" : [ "slimehead", 1, { "colorIndex" : 4 } ] },
-			// Vanilla Pirate
-			{ "weight" : 0.005, "item" : "eyepatchhead" },
-			{ "weight" : 0.005, "item" : [ "piratehead", 1, { "colorIndex" : 9 } ] }
-		  ]
-		}
-	  ]
-	]
-  }
-]
+    {
+      "op" : "test",
+      "path" : "/halloweenCostume"
+    },
+    {
+      "op" : "replace",
+      "path" : "/halloweenCostume",
+      "value" : [
+        [
+          0,
+          {
+            "poolRounds" : [
+              [0.4, 0],
+              [0.6, 1]
+            ],
+            "pool" : [
+              // The Spooky Scary Halloween Special
+              { "weight" : 0.1, "item" : "hallowmask1head" },
+              { "weight" : 0.1, "item" : "hallowmask2head" },
+              { "weight" : 0.1, "item" : "hallowmask3head" },
+              { "weight" : 0.1, "item" : "hallowmask4head" },
+              { "weight" : 0.1, "item" : "hallowmask5head" },
+              { "weight" : 0.15, "item" : "phobemask1head" },
+              { "weight" : 0.15, "item" : "phobemask2head" },
+              { "weight" : 0.15, "item" : "phobemask3head" },
+              { "weight" : 0.15, "item" : "phobemask4head" },
+              { "weight" : 0.15, "item" : "phobemask5head" },
+              { "weight" : 0.08, "item" : "halhumanoidpump" },
+              { "weight" : 0.08, "item" : "halhylotlpump" },
+              { "weight" : 0.08, "item" : "halpumpkinhead" },
+              { "weight" : 0.06, "item" : "deadpiratehead" },        
+              { "weight" : 0.06, "item" : "daveyjonesy" },        
+              { "weight" : 0.06, "item" : "nukegeneral" },        
+              { "weight" : 0.06, "item" : "spritejack" },        
+              { "weight" : 0.06, "item" : "steamylizardheadhead" },        
+              { "weight" : 0.06, "item" : "witchhead" },
+              { "weight" : 0.03, "item" : "invisiblemanhead" },
+              { "weight" : 0.03, "item" : "halpumpkinheadlit" },
+              // The Spooky Scary Halloween Special (Excluded)
+              // { "weight" : 0.005, "item" : "werevalihead" },
+              // { "weight" : 0.005, "item" : "werevalichest" },
+              // { "weight" : 0.005, "item" : "werevalipants" },
+              // { "weight" : 0.005, "item" : "fortunatohead" },
+              // { "weight" : 0.005, "item" : "fortunatochest" },
+              // { "weight" : 0.005, "item" : "fortunatolegs" },
+              // { "weight" : 0.005, "item" : "halgrimreaphead" },
+              // { "weight" : 0.005, "item" : "halgrimreapchest" },
+              // { "weight" : 0.005, "item" : "halgrimreaplegs" },
+              // { "weight" : 0.005, "item" : "haldevilhead" },
+              // { "weight" : 0.005, "item" : "haldevilchest" },
+              // { "weight" : 0.005, "item" : "haldevillegs" },
+              // { "weight" : 0.005, "item" : "haldevilback" },
+              // { "weight" : 0.005, "item" : "hotwitchhead" },
+              // { "weight" : 0.005, "item" : "hotwitchchest" },
+              // { "weight" : 0.005, "item" : "hotwitchpants" },
+              // { "weight" : 0.005, "item" : "lockjawhead" },
+              // { "weight" : 0.005, "item" : "lockjawchest" },
+              // { "weight" : 0.005, "item" : "lockjawlegs" },
+              // { "weight" : 0.005, "item" : "holmadsciencehead" },
+              // { "weight" : 0.005, "item" : "holmadsciencechest" },
+              // { "weight" : 0.005, "item" : "holmadsciencelegs" },
+              // { "weight" : 0.005, "item" : "spookiscaryhead" },
+              // { "weight" : 0.005, "item" : "spookiscarychest" },
+              // { "weight" : 0.005, "item" : "spookiscarylegs" },
+              // { "weight" : 0.005, "item" : "vampyrechest" },
+              // { "weight" : 0.005, "item" : "vampyrelegs" },
+              // { "weight" : 0.005, "item" : "vampyreback" },
+              // Starbound Halloween Mod
+              { "weight" : 0.04, "item" : "witchhat" },
+              // Vanilla Wizard Hats
+              { "weight" : 0.02, "item" : [ "wizardhead", 1, { "colorIndex" : 1 } ] },
+              { "weight" : 0.02, "item" : [ "wizardhead", 1, { "colorIndex" : 11 } ] },
+              // Vanilla Skulls
+              { "weight" : 0.01, "item" : "alienskullhead" },
+              { "weight" : 0.01, "item" : "goathead" },
+              { "weight" : 0.01, "item" : "skullmaskhead" },
+              { "weight" : 0.01, "item" : "dreadfulskullhead" },
+              { "weight" : 0.01, "item" : "rustyskul" },
+              { "weight" : 0.01, "item" : "jeffback" },
+              // Vanilla Species
+              { "weight" : 0.005, "item" : "anatomyapexhead" },
+              { "weight" : 0.005, "item" : "apexskullhead" },
+              { "weight" : 0.005, "item" : "anatomyavianhead" },
+              { "weight" : 0.005, "item" : "avianskullhead" },
+              { "weight" : 0.005, "item" : "floranskullhead" },
+              { "weight" : 0.005, "item" : "glitchskullhead" },
+              { "weight" : 0.005, "item" : "anatomyhead" },
+              { "weight" : 0.005, "item" : "humanskullhead" },
+              { "weight" : 0.005, "item" : "anatomyhylotlhead" },
+              { "weight" : 0.005, "item" : "hylotlskullhead" },
+              // Vanilla
+              { "weight" : 0.005, "item" : "armoredcultisthead" },
+              { "weight" : 0.005, "item" : "cultisthead" },
+              { "weight" : 0.005, "item" : "plaguedoctorhead" },
+              { "weight" : 0.005, "item" : "vicioushead" },
+              { "weight" : 0.005, "item" : "demonhornshead" },
+              { "weight" : 0.005, "item" : "plaguemasterhead" },
+              { "weight" : 0.005, "item" : "bonewingsback" },
+              { "weight" : 0.005, "item" : "batwingsback" },
+              // Vanilla Monster
+              { "weight" : 0.005, "item" : [ "eyehead", 1, { "colorIndex" : 2 } ] },
+              { "weight" : 0.005, "item" : [ "evilmushroomhead", 1, { "colorIndex" : 1 } ] },
+              { "weight" : 0.005, "item" : [ "eyehead2", 1, { "colorIndex" : 2 } ] },
+              { "weight" : 0.005, "item" : [ "beachcreeperhead", 1, { "colorIndex" : 6 } ] },
+              { "weight" : 0.005, "item" : [ "cyclopsyetihead", 1, { "colorIndex" : 1 } ] },
+              { "weight" : 0.005, "item" : [ "eyeballhead", 1, { "colorIndex" : 3 } ] },
+              { "weight" : 0.005, "item" : [ "lagoonhead", 1, { "colorIndex" : 2 } ] },
+              { "weight" : 0.015, "item" : [ "slimehead", 1, { "colorIndex" : 4 } ] },
+              // Vanilla Pirate
+              { "weight" : 0.005, "item" : "eyepatchhead" },
+              { "weight" : 0.005, "item" : [ "piratehead", 1, { "colorIndex" : 9 } ] }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
 ]

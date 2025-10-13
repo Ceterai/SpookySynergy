@@ -1,0 +1,27 @@
+// Patches for the Harrowing Cache from Elithian Alliance mod.
+[
+    // Increases its max stack to 1000.
+    [
+        {
+            "op": "test",
+            "path": "/maxStack"
+        },
+        {
+            "op": "replace",
+            "path": "/maxStack",
+            "value": 1000
+        }
+    ],
+
+    [
+        {
+            "op": "test",
+            "path": "/description"
+        },
+        {
+            "op": "replace",
+            "path": "/description",
+            "value": "A sealed cache containing Harrowing event items. Hold ^green;[LMB] ^white;to open!\n^gray;More costumes, less candy.^reset;"  // As opposed to the Haunted Bag which has less costume chances and larger amount of candy.
+        }
+    ]
+]

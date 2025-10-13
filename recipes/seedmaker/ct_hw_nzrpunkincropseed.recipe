@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item": "nzrpumpkin", "count": 5 },
+    { "item": "plantfibre", "count": 20 }
+  ],
+  "output" : { "item" : "nzrpunkincropseed", "count" : 1 },
+  "groups" : [
+    "spookysynergy",
+    "seedmaker",
+    "seedsMods",
+    "all",
+    "mod"
+  ]
+}

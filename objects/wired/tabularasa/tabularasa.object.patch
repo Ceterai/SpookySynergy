@@ -1,0 +1,14 @@
+// Mod support for Tabula Rasa custom filters.
+// Each filter is a button that applies an according group as a recipe filter in the Tabula Rasa crafting table interface.
+// Adds a new filter button for Spooky Synergy mod recipes (both patches and new recipes).
+[
+    {
+        "op":"add",
+        "path":"/filterButtons/-",
+        "value": {
+            "baseImage" : "/objects/wired/tabularasa/spookysynergy.png",
+            "baseImageChecked" : "/objects/wired/tabularasa/spookysynergy_selected.png",
+            "filter" : "spookysynergy"  // Recipe group to filter by.
+        }
+    }
+]

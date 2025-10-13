@@ -8,22 +8,10 @@
             "op": "replace",
             "path": "/input",
             "value": [
-                {
-                    "item": "fabric",
-                    "count": 20
-                },
-                {
-                    "item": "purpledye",
-                    "count": 1
-                },
-                {
-                    "item": "blackdye",
-                    "count": 3
-                },
-                {
-                    "item": "goldbar",
-                    "count": 1
-                }
+                { "item": "fabric", "count": 20 },
+                { "item": "purpledye", "count": 1 },
+                { "item": "blackdye", "count": 3 },
+                { "item": "goldbar", "count": 1 }
             ]
         }
     ],
@@ -36,6 +24,7 @@
             "op": "replace",
             "path": "/groups",
             "value": [
+                "spookysynergy",
                 "mod"
             ]
         }

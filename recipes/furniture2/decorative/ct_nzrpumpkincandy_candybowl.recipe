@@ -6,6 +6,7 @@
   ],
   "output" : { "item" : "candybowl", "count" : 1 },
   "groups" : [
+    "spookysynergy",
     "spookycrafter",
     // "craftingfurniture2",
     "decoration",

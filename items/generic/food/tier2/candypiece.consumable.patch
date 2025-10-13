@@ -1,3 +1,4 @@
+// Patches for the Piece of Candy from Starbound Halloween Mod to make it more similar to candy from other mods.
 [
     [
         {
@@ -7,7 +8,7 @@
         {
             "op": "replace",
             "path": "/shortdescription",
-            "value": "Sweet Candy"
+            "value": "Sweet Candy"  // Follows the pattern of candy items from other mods: Spooky Candy, Pumpkin Candy, Harrowing Candy, etc.
         }
     ],
     [
@@ -35,12 +36,23 @@
     [
         {
             "op": "test",
+            "path": "/blockingEffects"
+        },
+        {
+            "op": "replace",
+            "path": "/blockingEffects",
+            "value": [ ]  // Eat as many as you want! Matches candy from other mods.
+        }
+    ],
+    [
+        {
+            "op": "test",
             "path": "/foodValue"
         },
         {
             "op": "replace",
             "path": "/foodValue",
-            "value": 10
+            "value": 10  // Smaller food value. It's just a small piece of candy after all.
         }
     ],
     [
@@ -52,6 +64,18 @@
             "op": "replace",
             "path": "/maxStack",
             "value": 100
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/emote",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/emote",
+            "value": "happy"  // Matches Harrowing Candy from Elithian Alliance mod.
         }
     ]
 ]

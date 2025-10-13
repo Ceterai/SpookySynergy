@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item": "fabric", "count": 20 },
+    { "item": "purpledye", "count": 1 },
+    { "item": "blackdye", "count": 1 }
+  ],
+  "output" : { "item" : "phobemask4head", "count" : 1 },
+  "groups" : [
+    "spookysynergy",
+    "mod"
+  ]
+}

@@ -35,6 +35,52 @@
     [
         {
             "op": "test",
+            "path": "/soundEffect"
+        },
+        {
+            "op": "replace",
+            "path": "/soundEffect",
+            "value": "/sfx/objects/torch.ogg"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/soundEffect",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/soundEffect",
+            "value": "/sfx/objects/torch.ogg"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/soundEffectRangeMultiplier"
+        },
+        {
+            "op": "replace",
+            "path": "/soundEffectRangeMultiplier",
+            "value": 0.5
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/soundEffectRangeMultiplier",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/soundEffectRangeMultiplier",
+            "value": 0.5
+        }
+    ],
+    [
+        {
+            "op": "test",
             "path": "/description"
         },
         {

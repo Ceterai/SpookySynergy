@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "pumpkin", "count" : 6 },
+    { "item" : "candyautomato", "count" : 6 }
+  ],
+  "output" : { "item" : "gothicbed", "count" : 1 },
+  "groups" : [
+    "spookysynergy",
+    "spookycrafter",
+    "beds",
+    "objects",
+    "all"
+  ]
+}

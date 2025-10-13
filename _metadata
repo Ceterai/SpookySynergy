@@ -2,10 +2,20 @@
   "author" : "Ceterai",
   "description" : "A patch mod that adds synergy between various Halloween-themed mods! It's meant to make them work better together and make them feel like you're playing a single mod.",
   "friendlyName" : "Spooky Synergy",
-  "includes" : ["GS Addon - Ghosts Eve", "nzrhalloween", "Starbound Halloween Mod", "Halloween"],
+  "includes" : [
+    "SpawnableItemPack",
+    "TabulaRasa",
+    "Improved Food Descriptions",
+    "EES",
+    "Wardrobe",
+    "craftableseeds",
+    "nzrhalloween",
+    "Starbound Halloween Mod",
+    "Halloween"
+  ],
   "link" : "steam://url/CommunityFilePage/3582677809",
   "name" : "SpookySynergy",
   "steamContentId" : "3582677809",
   "tags" : "Miscellaneous",
-  "version" : "1.0"
+  "version" : "1.0.2"
 }

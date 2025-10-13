@@ -1,0 +1,49 @@
+// Patches for the Harrowing Candy from Elithian Alliance mod to make it more similar to candy from other mods.
+[
+    // Teaches the Candy Bowl crafting recipe upon pickup, similar to candy from the Starbound Halloween mod.
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup"
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup/-",
+            "value": "candybowl"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/learnBlueprintsOnPickup",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/learnBlueprintsOnPickup",
+            "value": [ "candybowl" ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/price"
+        },
+        {
+            "op": "replace",
+            "path": "/price",
+            "value": 60  // Though it doesn't restore any food, it also doesn't rot at all.
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/category"
+        },
+        {
+            "op": "replace",
+            "path": "/category",
+            "value": "preparedFood"
+        }
+    ]
+]

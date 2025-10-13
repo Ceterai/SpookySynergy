@@ -4,6 +4,7 @@
   ],
   "output" : { "item" : "tombthing3", "count" : 1 },
   "groups" : [
+    "spookysynergy",
     "spookycrafter",
     "decoration",
     "objects",

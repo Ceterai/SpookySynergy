@@ -5,6 +5,7 @@
   ],
   "output" : { "item" : "haltownfountain", "count" : 1 },
   "groups" : [
+    "spookysynergy",
     "spookycrafter",
     "decoration",
     "objects",

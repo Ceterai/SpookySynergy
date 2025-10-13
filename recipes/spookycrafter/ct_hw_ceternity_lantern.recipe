@@ -1,0 +1,24 @@
+{
+  "input" : [
+    { "item" : "nzrpumpkin", "count" : 1 },
+    { "item" : "titaniumbar", "count" : 4 },
+    { "item" : "plantfibre", "count" : 20 },
+    { "item" : "candle", "count" : 2 },
+    { "item" : "blackdye", "count" : 2 },
+    { "item" : "purpledye", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "spooplantern", "count" : 1, "parameters" : { 
+      "inventoryIcon" : "spooplanternicon.png?replace;ffb478=8c8a92;ffa35a=817e88;ff9b4b=7b7883;e16200=524e5c;b44d00=423f4a;783300=2c2a31",
+      "shortdescription" : "Ceternity Lantern",
+      "largeImage" : "spooplanternbig.png?replace;ffb478=8c8a92;ffa35a=817e88;ff9b4b=7b7883;e16200=524e5c;b44d00=423f4a;783300=2c2a31",
+      "image" : "spooplantern.png?replace;ffb478=8c8a92;ffa35a=817e88;ff9b4b=7b7883;e16200=524e5c;b44d00=423f4a;783300=2c2a31"
+    }
+  },
+  "groups" : [
+    "spookysynergy",
+    "spookycrafter",
+    "all",
+    "mod"
+  ]
+}

@@ -28,6 +28,7 @@
             "op": "replace",
             "path": "/groups",
             "value": [
+                "spookysynergy",
                 "inventorstable",
                 "craftingstations",
                 "all",

@@ -8,6 +8,7 @@
   ],
   "output" : { "item" : "hauntedrwardbag", "count" : 1 },
   "groups" : [
+    "spookysynergy",
     "spookycrafter",
     "consumables",
     "all",
