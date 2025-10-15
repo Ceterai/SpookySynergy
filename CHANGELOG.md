@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.2a] - The Harrowing Patch Update
+
+- **Patch Update**: Fixed a minor issue in `thea-events.treasurepools.patch` where an extra comma was present, which could cause JSON parsing errors in some cases. This update ensures compatibility and proper functionality of the patch.
+
 ## [1.0.2] - The Harrowing
 
 ### Added in 1.0.2

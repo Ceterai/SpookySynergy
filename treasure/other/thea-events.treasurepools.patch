@@ -14,14 +14,16 @@
       "op" : "replace",
       "path" : "/harrowingTreasurebox",
       "value" : [
-        1,
-        {
-	        "fill" : [
-		        { "pool" : "harrowingEventArmour" },
-		        { "pool" : "harrowingEventCandy" },
-		        { "pool" : "halloweenFlask" }  // From The Spooky Scary Halloween Special mod
-          ]
-        }
+        [
+          1,
+          {
+            "fill" : [
+              { "pool" : "harrowingEventArmour" },
+              { "pool" : "harrowingEventCandy" },
+              { "pool" : "halloweenFlask" }  // From The Spooky Scary Halloween Special mod
+            ]
+          }
+        ]
       ]
     }
   ],
